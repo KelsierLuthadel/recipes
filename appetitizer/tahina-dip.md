@@ -16,7 +16,7 @@
 - juice of 1 lemon
 - a few springs of parsley (chopped, to garnish)
 
-## Directions 
+## Method 
 1. Crush the garlic with a teaspoon of salt in a mortar.
 1. Stir the tahina well so that any oil mixes with the thick paste.
 1. Mix the garlic in with the tahina.

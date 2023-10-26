@@ -32,7 +32,7 @@
 - 2 teaspoons ginger powder
  - 1½ teaspoons chilli powder
 
-## Directions 
+## Method 
 1. Heat a large wok or frying pan and add the whole spices and roast, shaking the pan continuously to evenly roast the spices. 
 1. Once the spices become aromatic, remove from the heat and allow to cool.
 1. Once cooled, place the spices in a mortar, and grind with a pestle to a fine powder.

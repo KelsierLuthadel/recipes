@@ -10,7 +10,7 @@
 - 450 grams fresh red chillies
 - 2 teaspoons salt
 
-## Directions
+## Method
 1. Cut the chillies in half and remove the stems.
 1. Using a sharp knife, scrape out and discard the seeds.
 1. Bring a pan of water to the boil, add the chillies and cook for 5 - 8 minutes.

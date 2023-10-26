@@ -32,7 +32,7 @@
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)
 - sesame seeds
 
-## Directions
+## Method
 
 ### For the filling
 1. Wash and dry the aubergines, and cut into 3 cm cubes.

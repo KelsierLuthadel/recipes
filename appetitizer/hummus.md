@@ -17,7 +17,7 @@
 - salt (to taste)
 - juice of ½ lemon
 
-## Directions
+## Method
 1. Wash the chickpeas and leave them to soak in plenty of water for 8 hours.
 1. Discard any floating debris, then remove the chickpeas, reserving the water. If necessary, peel the chickpeas by rubbing them between your hands.
 1. Add 1 tablespoon of oil to a pan, and heat gently.

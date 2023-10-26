@@ -10,6 +10,6 @@
 - 6 sprigs fresh parsley
 - 2 leaves oregano (or celery leaf)
 
-## Directions
+## Method
 1. Bundle together all the ingredients, leaving a bay leaf. 
 1. Wrap this bay leaf around the base of the bouquet, and tie up with a piece of string

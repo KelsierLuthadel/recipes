@@ -21,7 +21,7 @@
 - 1 teaspoon shrimp paste(wrapped in foil and warmed in a pan)
 - 2 tablespoons peanut oil
 
-## Directions
+## Method
 1. Remove the stems and roughly chop the chillies.
 1. Put the chillies with all the other ingredients (except the oil) into a mortar, and grind to a smooth paste.
 1. Add the peanut oil and combine.

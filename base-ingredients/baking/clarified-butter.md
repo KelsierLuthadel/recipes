@@ -7,7 +7,7 @@
 ## Ingredients
 - 120 grams unsalted butter 
 
-## Directions
+## Method
 1. Melt the butter over a very gentle heat and bring slowly to the boil. Skim off the froth from the surface.
 1. Carefully pour the liquid butter into a bowl, holding back the milky sediment in the bottom of the pan.
 1. The clarified butter should be the colour of olive oil. It will keep in the fridge for a couple of weeks,

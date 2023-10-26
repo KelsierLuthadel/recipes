@@ -18,7 +18,7 @@
 - 6 dried curry leaves
 - 2 teaspoons chilli powder
 
-## Directions
+## Method
 1. Dry-fry the coriander, cumin, fennel and fenugreek seeds separately because they all turn dark at different stages. Do not let the spices burn, remove them as soon as they give off a rich aroma.
 1. Dry-fry the cinnamon stick, cloves and cardamom pods together for a few minutes until they give off a pungent aroma.
 1. As soon as they are cool enough to handle, remove the seeds from the cardamom pods and place them in a 1. mortar. Add the remaining dry-fried ingredients, along with the curry leaves. Grind to a smooth powder.

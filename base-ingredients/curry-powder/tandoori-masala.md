@@ -10,7 +10,7 @@
 
 **Yield:** 200 grams
 
-# Ingredients
+## Ingredients
 - 2 tablespoons ground coriander
 - 5 teaspoons ground cumin
 - 5 teaspoons garlic powder
@@ -22,5 +22,5 @@
 - 2 teaspoons annatto seed powder (yellow colouring)
 - 2 teaspoons salt
 
-# Directions
+## Method
 1. Simply mix all the ingredients together and store

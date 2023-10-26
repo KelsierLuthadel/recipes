@@ -18,7 +18,7 @@
 - 2 tablespoons Thai fish sauce
 - 3 teaspoons soft light brown sugar
 
-## Directions 
+## Method 
 1. Soak the dried prawns in water for about 15 minutes, drain and put in a mortar with the shrimp paste, garlic and chillies.
 1. Pound with a pestle into a paste, then add the cooked prawns and coriander.
 1. Continue pounding until combined.

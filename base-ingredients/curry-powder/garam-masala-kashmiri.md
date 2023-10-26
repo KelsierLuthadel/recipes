@@ -24,7 +24,7 @@
 - 1 tablespoon dry rose petals  (optional)
 - 1 teaspoon saffron stamens (optional)
 
-# Directions
+## Method
 1. Heat a large wok or frying pan and add all the ingredients and roast, shaking the pan continuously to evenly roast the spices. 
 1. Once the spices become aromatic, remove from the heat and allow to cool.
 1. In batches, add the roasted spices to a mortar and grind to a powder with a pestle.

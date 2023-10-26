@@ -13,7 +13,7 @@
 - 4 teaspoons lemon juice
 - 2 tablespoons hot water
 
-## Directions
+## Method
 1. Place the chopped chilli, crushed garlic and soy sauce in a small bowl.
 1. Stir in the lemon juice, mix well and then blend with the hot water.
 1. Cover and leave the sambal to stand for about 30 minutes before using.

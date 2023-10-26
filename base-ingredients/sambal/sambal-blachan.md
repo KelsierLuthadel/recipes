@@ -12,7 +12,7 @@
 - 1 cm cube of shrimp paste
 - juice of half a lemon or lime
 
-## Directions
+## Method
 1. Put the chillies into a mortar.
 1. Add a little salt, then use a pestle to pound them into a paste.
 1. Warm the shrimp paste, either by moulding it on to the end of a metal skewer and heating it in a gas flame until the outside begins to look dry, or by wrapping the paste in foil and dry-frying for about 5 minutes, turning occasionally.

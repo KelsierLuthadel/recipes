@@ -10,7 +10,7 @@
 - chopsticks
 - cold fork
 
-## Directions
+## Method
 ### Setting up
 1. Overhang each chopstick on the counter top, approximately 6" apart. Secure with tape. 
 1. Place the sheet pan on top of the chopsticks to weigh them down. 

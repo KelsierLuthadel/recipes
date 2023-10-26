@@ -16,7 +16,7 @@
 - 6 cloves
 - 2 teaspoons ground tumeric
 
-## Directions
+## Method
 1. Unless you like a fiery mixture, snap or cut the tops off the dried chillies and remove the seeds.
 1. Heat a large heavy-based pan and add the coriander, cumin and fennel seeds along with the chillies and peppercorns. Add the cinnamon stick, cardamoms and cloves.
 1. Dry-fry the spices over a medium heat, stirring continuously until the spices give off a rich aroma.

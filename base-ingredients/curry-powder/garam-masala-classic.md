@@ -18,7 +18,7 @@
 - 1 teaspoon black mustard seeds
 - ¼ teaspoon chilli powder
 
-## Directions
+## Method
 1. Dry-fry the chillies, cinnamon sticks and curry leaves in a large heavy-based frying pan for 2 minutes, until the spices give off a rich aroma. Shake the pan constantly so that the spices roast evenly.
 1. Add the coriander and cumin seeds, peppercorns, cloves, fenugreek and mustard seeds and continue frying for a further 8 - 10 minutes, shaking the pan as the spices darken and release their aroma.
 1. Allow the mixture to cool slightly before pouring into a mortar to grind to a fine powder.

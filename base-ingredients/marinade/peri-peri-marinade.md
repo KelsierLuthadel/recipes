@@ -16,6 +16,6 @@
 - 2 tablespoons olive oil
 - salt and ground black pepper
 
-## Directions
+## Method
 1. Put the chilli in a small bowl and stir in the paprika, ground coriander, crushed garlic and lime juice.
 1. Whisk in the olive oil using a fork, and season to taste with salt and pepper.

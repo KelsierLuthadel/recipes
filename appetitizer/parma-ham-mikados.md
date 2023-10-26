@@ -11,7 +11,7 @@
 - 100 grams softened butter
 - 30 grams strong Dijon mustard
 
-## Directions
+## Method
 1. Preheat the oven to 180°C.
 1. Cut each slice of Parma ham into fine julienne, keeping them separate.
 1. Mix the softened butter with the mustard and brush both sides of the filo squares very lightly with the mixture.

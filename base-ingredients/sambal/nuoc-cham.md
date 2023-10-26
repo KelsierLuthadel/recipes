@@ -13,7 +13,7 @@
 - 3 tablespoons Thai fish sauce
 - juice of 1 lime
 
-## Directions
+## Method
 1. Chop the chillies roughly and place them in a large mortar.
 1. Use a pestle to grind the chillies into a paste.
 1. Scrape the paste into a bowl, and add the garlic, sugar and fish sauce.

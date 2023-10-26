@@ -6,7 +6,7 @@
 
 **Yield:** 450 grams
 
-# Ingredients
+## Ingredients
 - 1 teaspoon fenugreek seeds
 - 6 garlic cloves (chopped)
 - 2 tablespoons fresh ginger (finely chopped)
@@ -21,7 +21,7 @@
 - 120 ml vegetable oil
 - 50 ml sesame oil
 
-## Directions
+## Method
 1. Soak the fenugreek seeds in water overnight, they will swell and acquire a jelly-like coating.
 1. Strain the fenugreek, discarding the water.
 1. Add all the ingredients, except  the oils, in a blender and process to a purée.

@@ -16,7 +16,7 @@
 - ½ teaspoon freshly ground star anise
 - 1 teaspoon ground tumeric
 
-## Directions
+## Method
 1. Snap or cut the tops off the dried chillies and remove the seeds.
 1. Put the chillies, cloves, cinnamon stick, coriander and fennels seeds into a heavy-based frying pan.
 1. Dry-fry over a medium heat, tossing the spices frequently until they give off a rich spicy aroma.

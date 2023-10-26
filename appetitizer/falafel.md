@@ -20,7 +20,7 @@
 - small pinch bicarbonate of soda
 - oil (for semi-deep frying)
 
-## Directions
+## Method
 1. Wash the beans and soak them in plenty of water for 8 hours.
 1. Remove any debris from the water.
 1. Drain the beans and dry them in kitchen paper.

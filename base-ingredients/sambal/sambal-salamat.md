@@ -13,7 +13,7 @@
 - 4 tablespoons Thai fish sauce
 - 1 tablespoon coriander (freshly chopped)
 
-# Directions
+## Method
 1. Cut a small cross in the base of each tomato.
 1. Place the tomatoes in a pan of boiling water and leave for about 30 seconds, or until the skin around the cross begins to peel away.
 1. Lift out the tomatoes with a slotted spoon and plunge into a bowl of ice cold water.

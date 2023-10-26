@@ -15,7 +15,7 @@
 - 1 tablespoon ground tumeric
 - 1 teaspoon ground ginger
 
-## Directions 
+## Method 
 1. Unless you like a fiery mixture, snap or cut the tops off the dried chillies and remove the seeds.
 1. For a milder mixture, remove the seeds and stalks from the dried chillies.
 1. Heat a heavy pan and dry-fry the chillies with the coriander, cumin, fenugreek and mustard seeds along with the black peppercorns over a medium heat until they give off a rich aroma. Shake the pan constantly so that the spices are evenly roasted.

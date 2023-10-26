@@ -22,7 +22,7 @@
 - 2 teaspoon cumin seeds
 - 1 teaspoon salt
 
-## Directions
+## Method
 1. Slice the tender lower portion of the lemon grass stalks and bruise them. Put them in a large mortar and add the chillies, shallots, garlic, galangal and coriander stems.
 1. Grind the herbs with a pestle, gradually adding the oil until the mixture forms a paste. 
 1. Add the citrus rind and the shrimp paste, mixing well.

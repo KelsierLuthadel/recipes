@@ -29,7 +29,7 @@
 - 75 ml lukewarm water
 - oil for deep frying
 
-## Directions
+## Method
 ### For the filling
 1. Heat a little oil in a frying pan and add the onion, stirring over a medium heat for about 10 minutes until soft and transparent.
 1. Add the garlic to the onion and increase the heat and cook. stirring constantly until the onion begins to turn golden brown.

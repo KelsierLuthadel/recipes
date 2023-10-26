@@ -13,7 +13,7 @@
 -  half teaspoon salt
 - 4 tablespoons olive oil
 
-## Directions
+## Method
 1. Snap the chillies, and shake out some of the seeds.
 1. Put the chillies in a bowl and pout over enough warm water to cover them, and leave to soak for 30 minutes.
 1. Meanwhile, dry-fry the coriander and cu,in seeds until they give off a rich aroma, making sure that they do not burn.

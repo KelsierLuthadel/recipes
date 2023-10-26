@@ -19,7 +19,7 @@
 - 60 ml cider vinegar
 - 175 ml sunflower oil
 
-## Directions 
+## Method 
 1. Heat a heavy-based frying pan and dry-fry the coriander and cumin seeds along with the peppercorns for a couple of minutes, stirring continuously.
 1. Add the mustard seeds and toss constantly over the heat until they start to pop and the mixture gives off a rich aroma. Make sure that the spices do not become too dark.
 1. Grind the mixture to a fine powder in a mortar then add the tumeric, chilli and salt. Stir in the garlic, ginger and enough of the vinegar to make a paste.

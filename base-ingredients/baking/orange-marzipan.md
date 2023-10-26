@@ -14,7 +14,7 @@
 - 1 egg
 - 1 egg yolk 
 
-## Directions
+## Method
 1. Sift the sugars and ground almonds together, then stir through the orange zest. 
 1. Beat together the egg and egg yolk, then add to the sugar mixture, stirring well.
 1. Knead briefly to ensure the marzipan is completely mixed and pliable, adding a little orange juice if the mix is too dry, or icing sugar if too wet.

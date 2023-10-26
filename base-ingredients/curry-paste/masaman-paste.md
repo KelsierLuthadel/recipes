@@ -22,7 +22,7 @@
 - 1 teaspoon soft brown sugar
 - 2 tablespoons oil
 
-## Directions
+## Method
 1. Snap the dried chillies and shake out most of the seeds, discarding the stems.
 1. Soak the chillies in a bowl of hot water for 20 - 30 minutes.
 1. Cut the tender lower portion of the lemon grass stalk into small pieces using a small sharp knife.

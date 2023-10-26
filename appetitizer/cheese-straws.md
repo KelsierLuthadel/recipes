@@ -12,7 +12,7 @@
 - 1 teaspoon sweet paprika
 - pinch of cayenne pepper
 
-## Directions
+## Method
 ### Prepare the pastry
 1. On a lightly floured surface, roll out the pastry 20 a 28 x 12 cm rectangle, about 2 mm thick.
 1. Roll it loosely over a rolling pin and unroll it onto a baking sheet lined with greaseproof paper.

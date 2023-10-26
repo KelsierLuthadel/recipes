@@ -16,7 +16,7 @@
 - 2 teaspoons yellow mung beans (mung dhal)
 - 1 ½ tablespoons ground tumeric
 
-## Directions 
+## Method 
 1. Snap or cut the tops off the dried chillies and remove the seeds.
 1. Dry-fry the chillies, coriander, cumin and fenugreek seeds along with the black peppercorns over a medium heat until they give off a rich aroma. Shake the pan constantly so that the spices roast evenly.
 1. Pour the roasted spices into a bowl.

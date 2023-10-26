@@ -21,7 +21,7 @@
 - juice and grated rind of 1 lime
 - salt and black pepper
 
-## directions
+## Method
 1. Heat the oil in a frying pan and add the onions, stirring over a medium heat for 10 minutes until they turn soft.
 1. Stir in the chillies, garlic, ginger, thyme and allspice.
 1. Fry for a further 2 minutes.

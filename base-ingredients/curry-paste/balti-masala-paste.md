@@ -11,7 +11,7 @@
 - 200 ml white wine vinegar
 - 200 ml vegetable oil
 
-## Directions
+## Method
 1. Place the ground masala spices in a bowl.
 1. Add the vinegar and enough water to make a creamy paste.
 1. Leave to stand for at least 10 minutes.

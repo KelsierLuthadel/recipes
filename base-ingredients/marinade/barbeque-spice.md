@@ -18,7 +18,7 @@
 - 2 teaspoon soft brown sugar
 - 1 teaspoon ground black pepper
 
-## Directions
+## Method
 1. Put the celery seeds in a mortar and grind to a powder with a pestle.
 1. Tip the powder into a bowl and stir in the remaining ingredients.
 1. Use the spice immediately.

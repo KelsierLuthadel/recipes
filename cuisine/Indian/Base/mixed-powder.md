@@ -11,10 +11,10 @@
 ## Ingredients
 - 3 Tbsp Ground Cumin
 - 3 Tbsp Ground Coriander
-- 4 Tbsp Curry Powder
+- 4 Tbsp [Curry Powder](curry-powder.md)
 - 3 Tbsp Paprika
 - 3 Tbsp Ground Turmeric
-- 1 Tbsp Garam Masala
+- 1 Tbsp [Garam Masala](garam-masala.md)
 
 ## Method
 Mix all the ingredients together and store in an air-tight container,

@@ -25,7 +25,6 @@
 - 1 tsp [Garam Masala](garam-masala.md)
 
 ## Method
-### Step 1
 1. Heat the oil in a pan over a medium–high heat until small bubbles form.
 2. Add the whole spices and bay leaves, and stir continuously for about 30 seconds to release their flavours into the oil.
 3. Add the onions and stir regularly for about 5 minutes until soft and translucent.

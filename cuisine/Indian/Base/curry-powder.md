@@ -5,9 +5,9 @@
 *Commercially prepared curry powder dates back to the 18th century when spice blends were prepared by Indian merchants to sell to the British army and governement officials returning to Britain during the British Raj.*
 *Unlike Garam Masalas, which are a blend of warming sprices, curry powders usually contain chillies to give a spicier blend.*
 
-**Yield:** 285 grams
-**Prep Time:** 8 Minutes
-**Cooking Time:** 2 Minutes
+**Yield:** 285 grams   
+**Prep Time:** 8 Minutes   
+**Cooking Time:** 2 Minutes   
 
 ## Ingredients
 ### Part 1

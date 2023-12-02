@@ -1,5 +1,6 @@
 # Jambalaya
 
+[Jambalaya](resouces/jambalaya.jpg)   
    
 **Serves:** 4 People
 

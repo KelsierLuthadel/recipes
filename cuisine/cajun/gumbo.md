@@ -1,4 +1,4 @@
- # Jambalaya
+ # Shellfish Gumbo
 
 ![Jambalaya](resources/gumbo.jpg)
 

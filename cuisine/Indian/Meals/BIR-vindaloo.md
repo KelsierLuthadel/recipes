@@ -3,6 +3,8 @@
 ![Vindaloo](resources/vindaloo.jpg)   
 *Many restaurants include potato in their vindaloo curries. ‘Aloo’ means potato in Hindi, so a lot of the original self-taught Bangladeshi and Pakistani chefs in the UK mistakenly added potatoes to this fiery curry, and it stuck. Vindaloo, however, owes its origins to Portuguese- controlled Goa in the 15th century, where the dish was usually served with pork.*
 
+**Note**: The recipe here calls for Indian Bay leaf, which has a subtle cinnamon and clove taste, and less woody than the European counterpart.
+
 **Prep Time:** 10 Minutes   
 **Cooking Time:** 10 Minutes   
 **Serves:** 4 People
@@ -11,7 +13,7 @@
 ### Step 1
 - 3 tbsp oil
 - 6 green cardamom pods (crushed)
-- 1 Bay leaf
+- 1 Indian Bay leaf
 ### Step 2
 - 2 tbsp Garlic and Ginger paste
 - 2 fresh green Bullet Chillies (finely chopped)

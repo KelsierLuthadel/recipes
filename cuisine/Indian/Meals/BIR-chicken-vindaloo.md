@@ -12,13 +12,9 @@
 - 2 tbsp garlic and ginger paste 
 - 2 fresh green chillies (finely chopped)
 - 2 Scotch bonnet chillies (finely chopped)
-- 1 tsp ground turmeric
+- 2 tsp ground turmeric
 - 1 tbsp hot chilli powder
-- 1 tsp ground cumin
-- 1 tsp ground coriander
-- 2 tsp curry powder
-- 1 tsp paprika
-- ½ tsp garam masala
+- 1 tbsp [Mixed Powder](..\Base\garam-masala.md) 
 - 75ml (5 tbsp) tomato purée
 - 1 tsp sugar
 

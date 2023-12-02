@@ -14,7 +14,7 @@
 - 2 Scotch bonnet chillies (finely chopped)
 - 2 tsp ground turmeric
 - 1 tbsp hot chilli powder
-- 1 tbsp [Mixed Powder](..\Base\garam-masala.md) 
+- 1 tbsp [Mixed Powder](../Base/mixed-powder.md) 
 - 75ml (5 tbsp) tomato purée
 - 1 tsp sugar
 

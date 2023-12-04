@@ -1,4 +1,6 @@
+# Bolognese
 
+![Bolognese](resources/Bolognaese.png)
 
 _A rich, fragrant Bolognese sauce perfect for either lasagne or as Spaghetti Bolognese_
 

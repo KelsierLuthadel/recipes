@@ -1,4 +1,4 @@
-# Name
+# Lasagne
 
 ![Lasagne](resources/lasagne.jpg)
 

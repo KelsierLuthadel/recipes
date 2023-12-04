@@ -21,6 +21,7 @@
 - 2 tablespoon cold water
 - 1 spring onion (finely sliced)
 - salt and ground white pepper
+
 **Marinade**
 1 tablespoon Shaoshing rice wine
 - 2 teaspoons grounded Sichuan pepper

@@ -10,6 +10,7 @@
 - 4 chicken breasts
 - 1 tablespoon oil
 - 1 tablespoon butter
+
 **For the blackened spice mix**  
 - 1 tablespoon salt
 - 1 ½ teaspoon garlic powder

@@ -1,6 +1,6 @@
 # Name
 
-![Name](resources/name.jpg)
+![Name](resources/)
 
 **Prep Time:** 
 **Cooking Time:** 

@@ -2,6 +2,8 @@
 
 ![Sizzling rice prawns](resources/sizzling-rice-and-prawns.jpg)
 
+*This is a dramatic dish which is sure to earn you compliments. It is moderately easy to make but requires organisation and some experience of Chinese cooking. The key to success is that the prawn sauce mixture and rice cake should both be fairly hot, this will create a dramatic sizzle when the two are combined.*
+
 **Serves:** 6-8
 
 ## Ingredients

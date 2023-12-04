@@ -2,6 +2,8 @@
 
 ![Name](resources/ss-prawns.jpg)
 
+*This is a very popular Chinese dish. The sweet and pungent flavours of the sauce combine well with the firm and succulent prawns. It is simple to make, and can be served as part of a Chinese meal or on its own as a starter.*
+
 **Serves:** 4
 
 ## Ingredients

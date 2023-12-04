@@ -2,6 +2,8 @@
 
 ![Name](resources/sichuan-prawn.jpg)
 
+*Sichuan cooking is becoming increasingly popular in western restaurants. This is one of the best known dishes from that area. It is quick and easy and makes a wholesome and delicious meal when served with stir fried vegetable and steamed rice.*
+
 **Serves:** 4
 
 ## Ingredients

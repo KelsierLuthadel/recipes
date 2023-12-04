@@ -2,6 +2,8 @@
 
 ![Name](resources/chilli-pork.jpg)
 
+*The combination of spices and sauces in this dish are the hallmark of western Chinese cooking. It is worthwhile getting the chilli bean sauce for authentic taste, although chilli powder is a reasonable acceptable substitute. The spareribs can be finished in the oven, under a grill or on a barbecue.*
+
 **Serves:** 2-4
 
 ## Ingredients

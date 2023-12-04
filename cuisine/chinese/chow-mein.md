@@ -2,7 +2,7 @@
 
 ![Name](resources/chow-mein.jpg)
 
-*Chow mein literally means 'stir fried noodles' and this dish is as popular outside China as it is in southern China. It is a quick and delicious way to prepare egg noodles. *
+*Chow mein literally means 'stir fried noodles' and this dish is as popular outside China as it is in southern China. It is a quick and delicious way to prepare egg noodles.*
 
 **Serves:** 4
 

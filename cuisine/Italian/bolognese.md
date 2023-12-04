@@ -2,7 +2,7 @@
 
 ![Bolognese](resources/Bolognaese.png)
 
-_A rich, fragrant Bolognese sauce perfect for either lasagne or as Spaghetti Bolognese_
+*A rich, fragrant Bolognese sauce perfect for either lasagne or as Spaghetti Bolognese*
 
 **Servings:** 4
 
@@ -26,3 +26,5 @@ _A rich, fragrant Bolognese sauce perfect for either lasagne or as Spaghetti Bol
 1. Pour in the wine, stir well and cook for about 3 minutes to allow the alcohol to evaporate.
 1. Add the passata and tomato purée, lower the heat to a bare simmer and continue to cook for 1 hour, uncovered until you get a beautiful rich sauce.
 1. After about 30 minutes, taste for seasoning.
+
+**Note**: This sauce is best cooked for at least 1 hour, preferably 2 on a very low heat. the longer you cook it, the richer the flavour

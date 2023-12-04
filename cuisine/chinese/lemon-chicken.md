@@ -2,7 +2,7 @@
 
 ![Name](resources/lemon-chicken.jpg)
 
-*The Hong Kong Chinese have made a speciality of chicken cooked with lemon. The tart yet delicately sweet lemon sauce goes very well indeed with the delicate flavour of chicken. *
+*The Hong Kong Chinese have made a speciality of chicken cooked with lemon. The tart yet delicately sweet lemon sauce goes very well indeed with the delicate flavour of chicken.*
 
 **Serves:** 4
 

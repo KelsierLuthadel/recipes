@@ -1,6 +1,6 @@
 # Malayan curry powder
 
-*This is good for poultry, especially chicken but is also equally suited to robust fish curries. *
+*This is good for poultry, especially chicken but is also equally suited to robust fish curries.*
 
 **Yield:** 60 ml
 

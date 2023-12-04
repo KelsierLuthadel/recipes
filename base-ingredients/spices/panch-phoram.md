@@ -2,7 +2,7 @@
 
 ![Panch phoram](resources/panch.jpg)
 
-*This is a Bengali mixture of five (panch) spices. *
+*This is a Bengali mixture of five (panch) spices.*
 
 ## Ingredients
 - white cumin seeds

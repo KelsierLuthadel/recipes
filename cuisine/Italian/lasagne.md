@@ -2,9 +2,9 @@
 
 ![Lasagne](resources/lasagne.jpg)
 
-*Lasagne con pesto
+*Lasagne con pesto*
 
-This is possibly one of the best lasagne recipes, the addition of the pesto compliments the béchamel sauce perfectly. Do not feel tempted to use shop bought lasagne sheets for this dish, take the time to make your own because they will melt in your mouth, and make this lasagne stand out above the rest and taste divine. Buon appetito!*
+*This is possibly one of the best lasagne recipes, the addition of the pesto compliments the béchamel sauce perfectly. Do not feel tempted to use shop bought lasagne sheets for this dish, take the time to make your own because they will melt in your mouth, and make this lasagne stand out above the rest and taste divine. Buon appetito!*
 
 **Serves:** 6-8
 

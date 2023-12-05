@@ -4,7 +4,7 @@
 
 
 
-**Servings:** 
+**Serves:** 
 
 ## Ingredients
 - 

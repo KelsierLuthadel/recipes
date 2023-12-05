@@ -1,6 +1,6 @@
 # Rocket sauce with horseradish
 
-![Rocket sauce with horseradish](resources/rocket-sauce.ong.PNG)
+![Rocket sauce with horseradish](resources/rocket-sauce.png)
 
 *This fresh tasting, healthy sauce goes beautifully with cold meat, or with cold poached salmon or smoked trout.*
 

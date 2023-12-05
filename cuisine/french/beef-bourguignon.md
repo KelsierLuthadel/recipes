@@ -2,7 +2,7 @@
 
 ![Name](resources/beef-bourguinon.jpg)
 
-*This dish was once called pièce de boeuf à la bourguignonne ( a piece of beef cooked in the style of Burgandy). This would have been prepared with a rump roast weighing at least 2 kilograms, cooked whole. Now the custom is to chop the meat into cubes, so that the dish doesn't have to cook quite as long. *
+*This dish was once called pièce de boeuf à la bourguignonne ( a piece of beef cooked in the style of Burgandy). This would have been prepared with a rump roast weighing at least 2 kilograms, cooked whole. Now the custom is to chop the meat into cubes, so that the dish doesn't have to cook quite as long.*
 
 *The best red wine sauce includes a bit of flour. Classic French cuisine used much too much, and the 'nouvelle cuisine' of the 1970's banished it heedlessly. Flour deserves neither this excess of honour nor this complete refusal; well used, as it is here, it does a fine job of thickening sauces.*
 

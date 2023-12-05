@@ -2,7 +2,7 @@
 
 ![Name](resources/pate-moulee.jpg)
 
-*This pastry is best made at least two hours in advance, ideally 24 hours before you use it. *
+*This pastry is best made at least two hours in advance, ideally 24 hours before you use it.*
 
 **Serves:** 950 grams
 

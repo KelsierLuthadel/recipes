@@ -2,7 +2,7 @@
 
 ![Tortilla soup](resources/tortilla-soup.jpg)
 
-*This is a classic Mexican soup, simple yet at the same time sophisticated. You can use the recipe below for a light fragrant soup, or add left-over bits of chicken for a hearty comforting variant. *
+*This is a classic Mexican soup, simple yet at the same time sophisticated. You can use the recipe below for a light fragrant soup, or add left-over bits of chicken for a hearty comforting variant.*
 
 **Serves:** 4
 

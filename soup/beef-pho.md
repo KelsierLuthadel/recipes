@@ -2,7 +2,7 @@
 
 ![Beef pho](resources/beef-pho.jpg)
 
-*This dish works best with raw beef that has been sliced paper thin, as it cooks in seconds when placed in the hot broth. *
+*This dish works best with raw beef that has been sliced paper thin, as it cooks in seconds when placed in the hot broth.*
 
 **Serves:** 4
 

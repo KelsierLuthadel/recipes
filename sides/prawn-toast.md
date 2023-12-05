@@ -2,7 +2,7 @@
 
 ![Prawn toast](resources/prawn-toast.jpg)
 
-*Sesame prawn toast is a savoury snack which is often served in dim sum restaurants outside China. *
+*Sesame prawn toast is a savoury snack which is often served in dim sum restaurants outside China.*
 
 **Servings:** 30
 

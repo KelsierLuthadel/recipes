@@ -5,7 +5,7 @@
 **Serves:** 8
 
 ## Ingredients
-- 280 grams [Pâte sablée](../../baking/pastry/shortbread-dough.md) (Shortbread dough)
+- 280 grams [Sweet Shortcrust](../../baking/pastry/sweet-short-pastry.md)
 - 200 grams fresh raspberries
 
 ### For the ganache

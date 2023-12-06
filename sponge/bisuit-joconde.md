@@ -7,7 +7,7 @@
 **Serves:** 
 
 ## Ingredients
-- 375 grams Tant pour tant
+- 375 grams [Tant pour tant](../../base-ingredients/baking/tant-pour-tant.md)
 - 5 whole eggs
 - 5 egg whites
 - 25 grams sugar

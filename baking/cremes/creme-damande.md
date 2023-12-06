@@ -6,7 +6,7 @@
 
 ## Ingredients
 - 250 grams butter
-- 500 grams Tant pour tant
+- 500 grams [Tant pour tant](../../base-ingredients/baking/tant-pour-tant.md)
 - 50 grams flour
 - 5 eggs
 - 50 ml rum (optional)

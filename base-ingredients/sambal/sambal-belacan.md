@@ -1,6 +1,6 @@
 # Sambal belacan
 
-![Sambal belacan](resources/sambal-blachan.jpg)
+![Sambal belacan](resources/sambal-belacan.jpg)
 
 *Hot chillies can hold their own against strong flavours, as this sambal proves. The shrimp paste gives it a pungent quality while the citrus juice adds a welcome sharpness. This sambal is often served with rice dishes, as the rice tempers the heat.*
 

@@ -1,6 +1,6 @@
 # Crème Pralinée
 
-![Name](resources/choccream.jpg)
+![Name](resources/creme-pralinee.png)
 
 *This is one of those creams which seems particularly delicious in winter. Its delicate, nutty flavour makes it perfect for filling all kinds of biscuit and sponge based desserts.*
 

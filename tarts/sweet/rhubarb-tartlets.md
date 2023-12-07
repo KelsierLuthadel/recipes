@@ -2,7 +2,7 @@
 
 ![Rhubarb tartlets with orange](resources/rhubarb-orange-tart.jpg)
 
-*The flavours of orange and rhubarb work well together and the crème pâtissière counteracts their acidity perfectly. *
+*The flavours of orange and rhubarb work well together and the crème pâtissière counteracts their acidity perfectly.*
 
 *Don't fill the tartlet cases too soon before serving, or the syrup will soften the pastry.*
 

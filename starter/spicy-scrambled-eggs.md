@@ -2,7 +2,7 @@
 
 ![Spicy scrambled eggs](resources/scrambled-egg.jpg)
 
-*This is a great quick snack dish that also holds well as a starter or a canapé. *
+*This is a great quick snack dish that also holds well as a starter or a canapé.*
 
 **Serves:** 
 

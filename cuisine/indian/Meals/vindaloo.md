@@ -21,7 +21,7 @@
 - 1 tsp Ground Turmeric
 - 2 Tbsp hot Chilli powder
 - 2 Tbsp [Mixed Powder](../Base/mixed-powder.md)
-- 125ml (½ Cup) Tomato puree
+- 125ml [tomato purée](../Base/tomato-puree.md)
 - 2 tsp sugar
 ### Step 3
 - 600ml (2½ Cups) [base sauce](../Base/curry-base.md)

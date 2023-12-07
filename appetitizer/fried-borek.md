@@ -1,5 +1,7 @@
 # Fried börek with meat filling
 
+![Borek](resources/borek.jpg)
+
 *These meat böreks are a little bit like Indian samosas, and are excellent as an entrée or with an apéritif.*   
 *Make sure that the filling is completely cold before using.*
 

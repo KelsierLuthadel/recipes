@@ -21,8 +21,8 @@
 - 1 tsp ground cumin 
 - 1-2 tsp mild or hot chilli powder, to taste 
 - 7 tbsp [onion paste made with yoghurt](../Base/fried-onion-paste.md)
-- 1 tsp dried fenugreek (methi) leaves 
-- Small bunch of coriander (cilantro), chopped 
+- 1 tsp dried fenugreek leaves 
+- Small bunch of coriander (chopped)
 - 2 handfuls of [fried onions](../Base/fried-onion-paste.md)
 - 1 tsp [garam masala](../Base/garam-masala.md)
 - Salt 

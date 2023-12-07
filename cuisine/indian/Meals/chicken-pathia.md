@@ -19,7 +19,7 @@
 - 125ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
 - 1 tbsp smooth mango chutney 
 - 1 tsp tamarind concentrate 
-- 1 tsp dried fenugreek (methi) leaves 
+- 1 tsp dried fenugreek leaves 
 - Juice of 1 or 2 lemons, to taste 
 - 3 tbsp chopped fresh coriander 
 - Salt 

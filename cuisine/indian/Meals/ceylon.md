@@ -23,7 +23,7 @@
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 625ml [base curry sauce](../Base/curry-base.md)
 - 100g block coconut (cut into sinall pieces)
-- 1 tsp dried fenugreek (methi) leaves 
+- 1 tsp dried fenugreek leaves 
 - 2 tbsp smooth mango chutney 
 - Sugar, to taste 
 - Juice of 1 lime 

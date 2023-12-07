@@ -2,6 +2,8 @@
 
 ![Lamb Bhuna](resources/lamb-bhuna.png)
 
+**Note**: This is a different recipe than [Lamb Bhuna](./lamb-bhuna2.md) with a subtly different taste
+
 **Serves:** 1 person   
 **Cooking time:** 18 minutes
 
@@ -10,7 +12,7 @@
 - 1 Small Onion (finely chopped)
 - 5 Pieces [Pre-cooked Lamb](../Base/pre-cooked-lamb.md)
 - Pinch Salt
-- 2 tsp Fenugreek Leaves (Methi)
+- 2 tsp Fenugreek Leaves
 - 1 tsp Cumin Seeds
 - 1 tsp Turmeric Powder
 - 2 tbsp Garlic/Ginger Paste

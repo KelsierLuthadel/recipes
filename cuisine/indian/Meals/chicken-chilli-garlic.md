@@ -20,7 +20,7 @@
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)
 - 125ml of chicken stock or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
-- 1 tsp dried fenugreek (methi) leaves 
+- 1 tsp dried fenugreek leaves 
 - Salt 
 - Small bunch of coriander (finely chopped)
 - Dried garlic flakes, to serve (optional) 

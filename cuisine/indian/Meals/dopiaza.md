@@ -9,14 +9,14 @@
 ## Ingredients
 - 4 tbsp rapeseed oil or seasoned oil
 - 600g [pre-cooked stewed chicken](../Base/curry-base.md)
-- 250ml (4 cup) of chicken stock or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
+- 500ml [base curry sauce](../Base/curry-base.md) (heated)
+- 250ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
 - 1 small onion, quartered and divided into petals 
 - 6 green cardamom pods (bashed )
 - 1 tsp cumin seeds 
 - 1 tsp coriander seeds (roughly chopped)
 - 3 tbsp garlic and ginger paste
 - 125ml [tomato purée](../Base/tomato-puree.md)
-- 500ml [base curry sauce](../Base/curry-base.md) (heated)
 - 2 tbsp [mixed powder](../Base/mixed-powder.md)
 - 1 tsp ground cumin 
 - 1-2 tsp mild or hot chilli powder, to taste 

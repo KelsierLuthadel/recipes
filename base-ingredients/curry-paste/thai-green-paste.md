@@ -1,6 +1,6 @@
 # Thai green curry paste
 
-![Thai Green](resources/thai-greeb.jpg)
+![Thai Green](resources/thai-green.jpg)
 
 *Kruang Kaeng Khiew Wan*
 

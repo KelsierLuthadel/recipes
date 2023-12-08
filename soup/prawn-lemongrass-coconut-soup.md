@@ -1,6 +1,6 @@
 # Prawn, lemongrass and coconut soup (Tom Yum)
 
-![Prawn, lemongrass and coconut soup](resources/)
+![Prawn, lemongrass and coconut soup](resources/tom-yum-koong.jpg)
 
 *This simple, yet mouth-watering exotic soup is bursting with fresh flavours of Thailand. It Works equally well as a main dish when poured over a bowl of freshly cooked noodles or rice.*
 

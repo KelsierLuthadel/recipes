@@ -12,7 +12,7 @@
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 1 tbsp ground cumin 
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
+- 1½ tbsp [mixed powder](../Base/mixed-powder.md)
 - 700g [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
 - 200ml of curry base or stock from [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
 - 2 tomatoes, quartered 

@@ -8,7 +8,7 @@
 
 ## Ingredients
 - 2 tablespoons sunflower oil
-300 grams minced chicken
+- 300 grams minced chicken
 - 1 onion (chopped)
 - 1 tablespoon medium curry powder
 - 50 grams cooked potato (diced)

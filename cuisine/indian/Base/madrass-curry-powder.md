@@ -1,6 +1,6 @@
-# Name
+# 
 
-![Name](resources/)
+![](resources/)
 
 
 

@@ -19,7 +19,7 @@
 - 1 tsp Kashmiri hot chilli powder 
 - 2 tbsp [mixed powder](../Base/mixed-powder.md)
 - 1 tbsp [tandoori masala powder](../Base/tandoori-masala-powder.md)
-- 1/2 tbsp freshly ground black pepper 
+- ½ tbsp freshly ground black pepper 
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 625ml [base curry sauce](../Base/curry-base.md)
 - 100g block coconut (cut into sinall pieces)

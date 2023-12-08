@@ -7,7 +7,7 @@
 ## Ingredients
 - 3 tbsp ghee or rapeseed oil or seasoned oil
 - 2 tbsp garlic and ginger paste
-- 1 tsp ground turmeric 
+- ½ tsp ground turmeric 
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)
 - 125ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
@@ -18,7 +18,7 @@
 - 200ml double cream 
 - Juice of 1 or 2 lemons, to taste 
 - Bright red food colouring powder (optional) 
-- 2 tsp [garam masala](../Base/garam-masala.md)
+- ½ tsp [garam masala](../Base/garam-masala.md)
 - 3 tbsp very finely chopped coriander
 - Salt 
 

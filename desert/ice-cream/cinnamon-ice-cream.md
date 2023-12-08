@@ -1,4 +1,4 @@
-# Name
+# Cinnamon Ice Cream
 
 ![Name](resources/cinnamon.jpg)
 

@@ -1,4 +1,4 @@
-# Curry Powder
+# Madrass Curry Powder
 
 *Classic curry powder*
 

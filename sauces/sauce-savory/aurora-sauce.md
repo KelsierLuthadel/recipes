@@ -1,4 +1,4 @@
-# Name
+# Aurora Sauce
 
 ![Name](resources/aurora-sauce.jpg)
 

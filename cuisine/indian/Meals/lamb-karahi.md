@@ -20,8 +20,8 @@
 - 1 quantity [fried onions](../Base/fried-onion-paste.md)
 - 1 tbsp pungent dried red chilli flakes 
 - 2 large tomatoes (diced )
-- 112 tbsp ground cumin 
-- 142 tbsp ground coriander 
+- 1½ tbsp ground cumin 
+- 1½ tbsp ground coriander 
 - 1 tbsp Kashmiri chilli powder 
 - 3 tbsp julienned ginger 
 - 2 fresh green bullet chillies (roughly chopped)

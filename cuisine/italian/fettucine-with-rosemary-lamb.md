@@ -22,7 +22,7 @@
 
 ## Method
 1. Heat the olive oil in a large saucepan and fry the onions, carrot and rosemary for 5 minutes over a medium heat until softened and golden. Stir occasionally with a wooden spatula.
-1. Add the lamb mince and mix well, allowing the begin to crumble. Continue to cook for 5 minutes stirring frequently, so the meat browns all over.
+1. Add the lamb mince and mix well. Continue to cook for 5 minutes stirring frequently, so the meat browns all over.
 1. Pour in the wine and cook for a further 3 minutes to allow the alcohol to evaporate.
 1. Season with salt and pepper, then pour in the vegetable stock.
 1. Bring to the boil over a medium and heat then lower the heat. Leave to simmer, uncovered for 30 minutes. Stir every 10 minutes.

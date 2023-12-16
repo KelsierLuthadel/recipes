@@ -53,7 +53,7 @@
 1. Add the cumin seeds, onion, cloves, peppercorns, cardamom pods and cinnamon and stir-fry for 6 - 8 minutes.
 1. Add the rice and stir-fry  for 2 minutes.
 1. Pour in 400 ml of water and bring to the boil.
-1. Cover and summer gently for 6 - 7 minutes.
+1. Cover and simmer gently for 6 - 7 minutes.
 1. Set aside.
 1. Mix the saffron and milk and set aside.
 

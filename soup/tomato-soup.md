@@ -27,14 +27,13 @@ This soup can be served as a vegetarian dish, by removing the bacon and substitu
 
 ## Method
 1. Score a cross in the base of each tomato, and place into a pan of boiling water for 1 minute. Remove and plunge into a bowl of ice cold water, drain and peel away the skins.
-Sweat the onions, carrotsq
-Part e and celery in the olive oil and butter for a few minutes.
-Add the herbs, bay leaf and garlic and cook for a few more minutes.
-Add the bacon and continue to cook for about 5 minutes until the vegetables are slightly softened.
-Cut the tomatoes into quarters and then cut each quarter in half. 
-Add the tomatoes to the pan, and cover, cooking gently for about 15 minutes, stirring occasionally to help the tomatoes break down.
-When the tomatoes have softened, start to add the chicken stock, a ladle at a time, until it forms a looser consistency (The amount of stock added depends on how thick or thin the desired soup needs to be).
-Leave the soup to cook for 20 minutes, on a slow, gentle bubble.
-Check for seasoning, and add the tomato purée.
-Remove the bay leaf.
-If making a purée of the soup, allow to cool for a few minutes and add the soup to a blender and purée until it reaches the desired consistency. Add a little cream and return to the pan to heat through.
+1. Sweat the onions, carrots and celery in the olive oil and butter for a few minutes.
+1. Add the herbs, bay leaf and garlic and cook for a few more minutes.
+1. Add the bacon and continue to cook for about 5 minutes until the vegetables are slightly softened.
+1. Cut the tomatoes into quarters and then cut each quarter in half. 
+1. Add the tomatoes to the pan, and cover, cooking gently for about 15 minutes, stirring occasionally to help the tomatoes break down.
+1. When the tomatoes have softened, start to add the chicken stock, a ladle at a time, until it forms a looser consistency (The amount of stock added depends on how thick or thin the desired soup needs to be).
+1. Leave the soup to cook for 20 minutes, on a slow, gentle bubble.
+1. Check for seasoning, and add the tomato purée.
+1. Remove the bay leaf.
+1. If making a purée of the soup, allow to cool for a few minutes and add the soup to a blender and purée until it reaches the desired consistency. Add a little cream and return to the pan to heat through.

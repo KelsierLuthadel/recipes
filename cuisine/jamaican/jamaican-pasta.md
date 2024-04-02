@@ -21,8 +21,11 @@
 ## Method
 1. Prepare pasta according to directions on the box. Drain and set aside ½ pasta cup pasta water.
 1. Coat prawns with 1 Tbsp of jerk seasoning.
-1. Add oil to a large crock pot over medium heat. Cook prawns for 2-3 min per side. Remove prawns and set aside.
+1. Add oil to a large crock pot over medium heat. 
+1. Cook prawns for 2-3 min per side. 
+1. Remove prawns and set aside.
 1. Deglaze the pan by adding ¼ cup pasta water. Using a wooden spoon, scrape any of the seasoning from the sides of the pan into the water.
 1. Add peppers, spring onions, and garlic to the pan and cook until slightly softened about 5 minutes.
 1. Add remaining pasta water, double cream, and remaining jerk seasoning and simmer for about 3 minutes.
+1. Add the prawns.
 1. Add pasta, spinach, and parmesan cheese and stir until coated.

@@ -1,4 +1,4 @@
-# Jamaican Pasta
+# Rasta  Pasta
 
 ![Name](resources/jamaican-pasta.jpg)
 
@@ -7,7 +7,7 @@
 ## Ingredients
 - 227 grams penne pasta (about 2 dry cups)
 - 454 grams prawns (peeled and deveined)
-- 2 Tbsp. jerk seasoning
+- 1 Tbsp. jerk seasoning
 - 2 Tbsp. oil
 - 1 red bell pepper (thinly sliced)
 - 1 orange bell pepper (thinly sliced)
@@ -29,3 +29,6 @@
 1. Add remaining pasta water, double cream, and remaining jerk seasoning and simmer for about 3 minutes.
 1. Add the prawns.
 1. Add pasta, spinach, and parmesan cheese and stir until coated.
+
+*Alternative*
+1. Substitue jerk seasoning for cajun spices for a wam, smokey cajun dish

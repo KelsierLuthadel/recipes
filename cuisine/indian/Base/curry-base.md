@@ -22,7 +22,7 @@
 - 2tbs tomato purée 
 
 ## Method
-
+Remember to periodically stir during the following process to stop the onions from burning. Add a little water if it reduces too much
 ### Step 1
 - Place onions and water in a large pot.
 - Sprinkle cumin seeds over onions.

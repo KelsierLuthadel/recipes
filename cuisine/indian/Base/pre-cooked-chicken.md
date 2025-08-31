@@ -18,7 +18,7 @@
 - 3 Indian Bay leaves
 - 2 Large Onions (finely chopped)
 - ½ tsp sea salt
-- 2 Tbsp Garlic and Ginger pastew
+- 2 Tbsp Garlic and Ginger paste
 - 1 tsp ground turmeric
 - 2 x 400g tins chopped Tomatoes
 - Water (to cover)

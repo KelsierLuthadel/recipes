@@ -23,6 +23,4 @@
 1. Lift the bottom third of the tortilla over the fillings, fold in the left- and right-hand side of the tortilla and continue rolling tightly towards the top until a wrap is formed.
 1. Wrap it up in the foil and put the burrito into the warm oven to heat through for 1–2 minutes. Serve with your favourite salsas on the side.
 
-*Variation*
-Stuffed crust burrito: make the burrito as per the instructions in the previous recipe, on page 148, then proceed as described above.
 

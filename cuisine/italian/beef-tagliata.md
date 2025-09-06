@@ -20,7 +20,7 @@
 - 40 grams Parmesan shavings
 
 ## Method
-1. Place a heavy-bottomed frying pan over a hight heat, and add a teaspoon of olive oil and heat until the pan begins to smoke.
+1. Place a heavy-bottomed frying pan over a height heat, and add a teaspoon of olive oil and heat until the pan begins to smoke.
 1. Meanwhile, rub the streaks with olive oil to coat them, and place in the hot pan for 15 - 20 seconds.
 1. Turn the steaks over and fry for a further 15 - 20 seconds.
 1. Repeat this, turning the steaks over, for 2 - 3 minutes depending on how well the steaks need to be cooked (see notes).

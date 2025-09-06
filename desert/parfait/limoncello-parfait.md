@@ -1,4 +1,4 @@
-# NamChilled limoncello parfait with raspberriese
+# Chilled limoncello parfait with raspberriese
 
 ![Name](resources/limoncello-parfait.jpg)
 

@@ -42,7 +42,7 @@
 1. Add the aubergine with salt and pepper, stirring.
 1. When the onion and aubergine darkens, add the tomatoes and stir thoroughly.
 1. Continue to cook, stirring occasionally for about 20 minutes.
-1. Increase the heat to hight and stir constantly until the mixture becomes fairly dry. If the mixture sticks to the pan, add a little of the reserved tomato liquid and scrape well.
+1. Increase the heat to height and stir constantly until the mixture becomes fairly dry. If the mixture sticks to the pan, add a little of the reserved tomato liquid and scrape well.
 1. When the mixture becomes really dry, transfer it to a bowl to cool. This mixture must be absolutely cold before you can use it.
 1. Skim any oil that rises to the surface of the khandrajo.
 

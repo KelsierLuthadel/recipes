@@ -1,6 +1,6 @@
 # Bouquet garni
 
-![Bouquet Garni](resources/bouqet-garni.png)
+![Bouquet Garni](resources/bouquet-garni.png)
 
 *The bouquet garni(French for "garnished bouquet") is a bundle of herbs usually tied together with string and mainly used to prepare soup, stock, and various stews. The bouquet is cooked with the other ingredients, but is removed prior to consumption.*
 

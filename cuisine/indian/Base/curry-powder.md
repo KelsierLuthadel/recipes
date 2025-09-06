@@ -2,8 +2,8 @@
 
 *Classic curry powder*
 
-*Commercially prepared curry powder dates back to the 18th century when spice blends were prepared by Indian merchants to sell to the British army and governement officials returning to Britain during the British Raj.*
-*Unlike Garam Masalas, which are a blend of warming sprices, curry powders usually contain chillies to give a spicier blend.*
+*Commercially prepared curry powder dates back to the 18th century when spice blends were prepared by Indian merchants to sell to the British army and government officials returning to Britain during the British Raj.*
+*Unlike Garam Masalas, which are a blend of warming spices, curry powders usually contain chillies to give a spicier blend.*
 
 **Note**: The recipe here calls for Indian Bay leaf, which has a subtle cinnamon and clove taste, and less woody than the European counterpart.
 

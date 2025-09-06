@@ -24,7 +24,7 @@
 - 125 grams double cream
 
 ### Salsa
-- half an avacado
+- half an avocado
 - 1 tablespoon coriander leaves (finely chopped)
 - grated zest and juice of 1 lime
 - half an red onion (finely chopped)
@@ -43,5 +43,5 @@
 1. Stir the coriander and the lime juice into the sauce, add the fish, then stir int eh coriander and the lime juice onto the sauce, add the dish, then simmer for 1 minute.
 1. Add the prawns, scallops and clams.
 1. Cover with a lid and cook for a further 2 - 3 minutes, discard any clams that have failed to open.
-1. To make the salsa, chop the avacado into cubes and mix with the coriander, the lime zest and juice, and red onion
+1. To make the salsa, chop the avocado into cubes and mix with the coriander, the lime zest and juice, and red onion
 1. Stir the cream into the soup and top with salsa.

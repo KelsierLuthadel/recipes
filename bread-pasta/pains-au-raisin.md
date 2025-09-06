@@ -19,7 +19,7 @@
 1. Put 200 ml water in a saucepan and add the sugar, sultanas and rum.
 1. Slowly bring to the boil over a low heat and let bubble gently for 2 minutes.
 1. Remove from the heat and leave to stand for 2 hours.
-1. Drain the sultanas throughly just before using.
+1. Drain the sultanas thoroughly just before using.
 
 ### For the dough
 1. On a lightly floured surface, roll the dough into a rectangle about 65 x 35 cm, 4 mm thick.

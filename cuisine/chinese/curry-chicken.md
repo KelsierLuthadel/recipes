@@ -33,4 +33,4 @@
 1. Reheat the wok until it is very hot.
 1. Add the peppers and stir-fry them for 2 minutes.
 1. Add the rest of the ingredients except the chicken and cook for a further 2 minutes.
-1. Return the chicken to the pan and stir-fry for another 2 minutes, coating the chicken throughly with the sauce and serve immediately.
+1. Return the chicken to the pan and stir-fry for another 2 minutes, coating the chicken thoroughly with the sauce and serve immediately.

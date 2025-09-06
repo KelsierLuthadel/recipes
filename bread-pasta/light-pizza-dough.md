@@ -21,7 +21,7 @@
 - 50 ml extra virgin olive oil
 - 120 grams type '55' flour
 
-## Methos
+## Methods
 ### First stage
 1. Put the flour into a bowl and check the temperature, register the air temperature and add the two figures. Together with the water, the sum should be 64°C. So if the combined flour and air temperatures are 50°C, then the water needs to be 14°C.
 1. Make a well in the flour and crumble in the yeast.

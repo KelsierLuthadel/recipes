@@ -1,6 +1,6 @@
 # Crispy pork carnitas
 
-![NamCrispy pork carnitase](resources/carnitas.png)
+![Crispy pork carnitase](resources/carnitas.png)
 
 *Carnitas are so versatile, you can fill any burrito, taco, quesadilla or use them in a salad*
 

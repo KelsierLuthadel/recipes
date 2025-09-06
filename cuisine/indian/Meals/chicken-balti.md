@@ -4,7 +4,7 @@
 
 *Authentic baltis are cooked over a high gas flame that is much hotter than is possible on most conventional hobs. As they are cooked, the whole pan turns into a big ball of fire as the oil catches light, cooking off the oil and adding a delicious smoky flavour*
 
-*This is nomrally cooked in a large balti pan, but you can you can substitute this with a frying pan*
+*This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*
 
 **Serves:** 4
 

@@ -1,6 +1,6 @@
 # Caribbean chicken curry stew
 
-![Name](resources/carribean-curry.png)
+![Name](resources/caribbean-curry.png)
 
 *In many Caribbean stew dishes there is an initial step of burning sugar in oil which is used to brown the meat in. This adds a very unique sweetness to the stews from this region and this sweetness paired with the unmistakable flavour (and heat) from the wonderful scotch bonnet chilli is simply astounding. I have used curry powder in this - yes curry powder! and I cannot tell you how much I love the flavour of this very simple, yet fragrant and delicious curry.*
 

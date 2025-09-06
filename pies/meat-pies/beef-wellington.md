@@ -50,15 +50,15 @@
 ### For the beef fillet
 1. Preheat the oven to 200°C.
 1. Trim the fillet of any membrane, then season all over with salt and pepper.
-1. Heat the clarified butter in a roasting pan over a medium - high heat and sear the beef for 3 - 4 minutes until goldenm turning to colour evenly.
+1. Heat the clarified butter in a roasting pan over a medium - high heat and sear the beef for 3 - 4 minutes until golden turning to colour evenly.
 1. Transfer to the oven and roast for 6 minutes, turning the meat over after 3 minutes.
 1. Lift the beef onto a wire rack and leave to cool completely.
 1. At this stage it will be very rare.
 
 ### For the mushroom duxelles.
 1. Heat the 60 grams of butter in a pan over a medium heat.
-1. Add the mushrooms and lemon juice and cook, stirring from time to time, until all the moisture has eveporated.
-1. Add the shallot and cook for anouther 2 minutes, then pour in the cream and cook, stirring until it is all absorbed.
+1. Add the mushrooms and lemon juice and cook, stirring from time to time, until all the moisture has evaporated.
+1. Add the shallot and cook for another 2 minutes, then pour in the cream and cook, stirring until it is all absorbed.
 1. Season to taste and set aside to cool, then chill.
 
 ### For the spinach
@@ -68,11 +68,11 @@
 ### To assemble
 1. Roll out the pastry on a lightly floured surface to a 40 x 25 cm rectangle, 3 - 4 mm thick.
 1. Trim the side to neaten.
-1. Place 2 crêpes along the middle of the retangle and cover them with 8 spinach leaves.
+1. Place 2 crêpes along the middle of the rectangle and cover them with 8 spinach leaves.
 1. Spoon and spread a 1 cm thick band of mushroom duxelles along the middle of the spinach and crêpes.
 1. Put the cold beef fillet on top and thickly cover the whole surface, including the ends, with the remaining duxelles.
 1. Cover the mushroom duxelles with the remaining spinach leaves and crêpes.
-1. Fold the crêpes over the beef and if neccessary, cut off any overlapping parts with scissors.
+1. Fold the crêpes over the beef and if necessary, cut off any overlapping parts with scissors.
 1. Lightly brush the 2 ends of the pastry rectangle with eggwash.
 1. Fold one side over the beef, brush it and the ends with eggwash, then fold the other side over the beef.
 1. Roll out the 2 ends of the pastry to a 5 - 6 mm thickness, and trim to an 8 cm length.

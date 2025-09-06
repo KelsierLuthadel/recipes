@@ -1,6 +1,6 @@
 # Manhattan seafood chowder
 
-![Manhattan seafood chowder](resources/manhatten-chowder.png)
+![Manhattan seafood chowder](resources/manhattan-chowder.png)
 
 **Serves:** 4
 

@@ -2,7 +2,7 @@
 
 ![Base Gravy](resources/gravy.jpg)
 
-*Classic British Indian Restuarant(B.I.R.) curry base*
+*Classic British Indian Restaurant(B.I.R.) curry base*
 
 *This is the classic curry base that is used in most UK Indian restaurants. The finished sauce has a sweet taste and should be a thick consistency.*
 

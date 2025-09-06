@@ -4,7 +4,7 @@
 
 *Carnitas are so versatile, you can fill any burrito, taco, quesadilla or use them in a salad*
 
-**Serves:** 
+**Serves:** 8
 
 ## Ingredients
 - 1kg skinless, boneless pork shoulder

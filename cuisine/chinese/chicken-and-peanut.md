@@ -1,6 +1,6 @@
 # Chicken and Peanut
 
-![Name](resources/chicken-peanut.jpg)
+![Name](resources/chicken-and-peanut.jpg)
 
 *When cooking Chinese food, it’s always important to think about the flavours and textures of the ingredients. Juicy chicken combined with succulent baby corn and salty, crunchy cashew nuts come together beautifully in this dish.*
 

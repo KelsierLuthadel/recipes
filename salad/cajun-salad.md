@@ -1,34 +1,72 @@
-# Hot cajun potato salad
+# Hot Cajun Potato Salad
 
 ![Hot cajun potato salad](resources/cajun-salad.jpg)
 
 *In Cajun country, where Tabasco originates, hot means really hot, and this potato salad is no exception.*
 
-**Prep Time:** 
-**Cooking Time:** 
-**Serves:** 
+**Serves:** 6
+
+**Prep time:** 10 mins
+
+**Cooking time:** 25 mins
+
+## Overview
+A fiery potato salad blending Cajun spices with a mayo-based dressing, featuring hard-boiled eggs, spring onions, and diced green chilli. The warming garam masala, cumin, and cayenne create authentic Cajun heat balanced with fresh herbs.
 
 ## Ingredients
+### Vegetables
 - 8 waxy potatoes
-- 1 green chilli (de-seeded and diced)
+- 1 green chilli (deseeded and diced)
 - 4 spring onions (shredded)
-- 3 eggs (hard boiled, shelled and chopped)
+
+### Protein and dairy
+- 3 eggs (hard-boiled, shelled, and chopped)
 - 250 ml mayonnaise
-- 1 tablespoon Dijon mustard
+
+### Seasonings and spices
+- 1 tbsp Dijon mustard
 - Tabasco sauce (to taste)
-- ¼ teaspoon garam masala
-- ¼ teaspoon ground cumin
-- ¼ teaspoon dried coriander
-- ¼ teaspoon cayenne pepper
-- 2 teaspoons thyme (chopped)
-- salt and ground black pepper
-- salad leaves (to serve)
+- ¼ tsp garam masala
+- ¼ tsp ground cumin
+- ¼ tsp dried coriander
+- ¼ tsp cayenne pepper
+- 2 tsp thyme (chopped)
+- Salt and ground black pepper
+
+### To serve
+- Salad leaves
 
 ## Method
-1. Put the unpeeled potatoes in a pan of cold salted water, bring to the boil and cook for 20 - 30 minutes, until tender.
-1. Drain the potatoes, and set aside to cool enough to handle.
-1. Peel the potatoes, and cut into large chunks.
-1. Place the potatoes in a large bowl and add the chopped chilli, spring onions and eggs. Mix gently.
-1. In a separate bowl, mix the mayonnaise with the mustard and season with salt and black pepper. Add Tabasco sauce to taste.
-1. Mix in the cumin, coriander and thyme.
-1. Add the dressing to the potato mixture, toss gently to coat then sprinkle over the cayenne and garam masala.
+
+### Stage 1 – Cook potatoes
+1. Put unpeeled potatoes in a pan of cold salted water.
+1. Bring to the boil and cook for 20–30 mins until tender.
+1. Drain and set aside to cool enough to handle.
+1. Peel and cut into large chunks.
+
+### Stage 2 – Combine vegetables and protein
+1. Place potatoes in a large bowl and add the diced chilli, spring onions, and eggs.
+1. Mix gently.
+
+### Stage 3 – Make dressing
+1. In a separate bowl, mix mayonnaise with mustard and season with salt and black pepper.
+1. Add Tabasco sauce to taste.
+1. Mix in cumin, coriander, and thyme.
+
+### Stage 4 – Finish salad
+1. Add dressing to the potato mixture and toss gently to coat.
+1. Sprinkle over the cayenne and garam masala.
+1. Serve on salad leaves.
+
+## Notes
+- **Heat level:** Adjust Tabasco to preference; start with less and build up.
+- **Waxy potatoes:** Essential for maintaining texture; floury varieties will disintegrate.
+- **Warm salad:** Some prefer serving warm rather than chilled; both work well.
+
+## Serving
+Serve on a bed of fresh salad leaves. Great as a side dish for grilled meats or as part of a buffet spread.
+
+## Storage
+- Refrigerate up to 2 days in an airtight container.
+- Bring to room temperature 30 mins before serving for best flavour.
+- Do not freeze.

@@ -6,7 +6,10 @@
 
 *You will need a buttered brioche mould, measure 16 cm across the top, 8 cm across the base once the dough has rested in the refrigerator.*
 
-**Yield:** 1.2kg
+**Serve:** 1.2kg yield
+
+## Overview
+The quintessential French enriched yeast dough featuring butter and eggs for unmatched richness and tender crumb. This silky, golden dough is the foundation for elegant brioches, pastries, and breakfast breads. The long refrigeration develops flavor and makes the dough easier to shape. A showstopper on any breakfast or dessert table.
 
 ## Ingredients
 - 70 ml tepid milk
@@ -47,3 +50,21 @@
 1. Dip a pair of very sharp scissors into cold water and make six 3 cm deep cuts around the body of the dough.
 1. Immediately bake the brioche for 15 minutes, then lower the oven to 170°C and bake for another 30 minutes.
 1. Leave the brioche in the mould for 5 minutes, then unmould it onto a wire rack to cool.
+
+## Notes
+- **Butter incorporation:** Adding butter in small pieces while mixing prevents the dough from becoming greasy.
+- **Fermentation:** The 2-hour rise followed by refrigeration develops flavor—don't skip either step.
+- **Dough temperature:** Brioche dough should feel soft and buttery, not stiff. Room temperature should be warm but not hot.
+- **Mould selection:** The specified mould size is crucial for proper rising and baking. Brioche will over-proof in too-large tins.
+- **Make-ahead:** Dough freezes beautifully for up to 3 months before shaping and baking.
+
+## Serving
+Serve with: Breakfast with café au lait, or as a luxury side to afternoon tea
+Best enjoyed: Warm from the oven with butter and jam, or sliced for French toast
+
+## Storage
+- Best served within 1-2 days for optimal crumb and texture
+- Keeps 3-4 days wrapped in foil at room temperature
+- Freezes well unbaked (shape, then freeze before proofing) for up to 3 months
+- Can be gently reheated in a 160°C oven for 8-10 minutes
+- Day-old brioche is excellent for French toast

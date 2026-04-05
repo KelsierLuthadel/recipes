@@ -6,9 +6,10 @@
 
 *Crème anglaise is thought to have origins evolving from ancient Romans who used eggs as thickeners to create custards and creams*
 
-**Yield:**  750ml
+**Serves:**  750ml
 
-## Ingredients
+## Overview
+The classic French pouring custard—silky, delicate, and versatile. This foundational cream sauce can be served warm alongside soufflés and fruit-based desserts, or chilled for trifles and pavlovas. With a palette of flavoring variations from classics like coffee and chocolate to creative options like pistachio, this sauce is endlessly adaptable.
 - 250 ml milk
 - 250 ml cream
 - 125 grams caster sugar
@@ -46,3 +47,20 @@
 1. Soak 200 grams of fresh pistachio nuts in water for 24 hours, then crushed in a pestle and mortar to make a paste. 
 1. Pour one third of the hot crème anglaise onto the paste, stirring with a whisk, then stir into the rest of the crème anglaise. 
 1. Purée in a blender for 3 minutes, and cool over crushed ice. This is superb with poached pears.
+
+## Notes
+- **Temperature control:** This custard breaks easily if overheated. Use low heat and stir constantly with a wooden spatula.
+- **Vanilla quality:** Use real vanilla pods—the tiny black seeds add thousands of flavor specks that powder cannot replicate.
+- **Cooling technique:** Pouring onto crushed ice stops the cooking and prevents a skin from forming.
+- **Variations:** All listed variations follow the same method; infuse your chosen flavoring in the milk before adding eggs.
+- **Thickness:** The sauce should coat the back of a spoon—it thickens slightly more as it cools.
+
+## Serving
+Serve with: Soufflés, fruit tarts, poached fruits, or chocolate desserts
+Temperature options: Warm alongside hot desserts; chilled for parfaits and trifles
+
+## Storage
+- Keeps 3-4 days refrigerated in an airtight container
+- Does not freeze well as texture becomes grainy upon thawing
+- Reheat gently over a water bath, whisking constantly, without boiling
+- Can be made 1-2 days ahead for entertaining

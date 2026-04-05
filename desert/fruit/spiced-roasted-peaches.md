@@ -13,6 +13,21 @@
 - juice of 2 lemons
 - small pinch of freshly grated nutmeg
 
+## Overview
+A simple yet elegant presentation of halved roasted peaches seated in their own fresh coulis, drizzled with warm honey infused with star anise, creating a light and refreshing dessert that showcases the natural sweetness of ripe fruit. The complex spice notes from star anise and nutmeg balance the peaches' simple sweetness.
+
+## Notes
+- Ripe peaches are essential; underripe fruits lack sweetness and overripe ones become mushy during cooking, so select fruit at peak ripeness
+- The honey-star anise infusion should simmer only 5 minutes; longer cooking develops bitter notes and loses the delicate floral quality of the anise
+- Blanching peaches briefly in boiling water followed by ice bath makes peeling simple; forcing unripe peaches off the skin damages the flesh
+- The raw peach coulis provides tartness and freshness that balances the warm honey sauce; do not skip this for a complete dessert
+
+## Serving
+Arrange the cool peach coulis in shallow serving glasses and crown with a warm roasted peach half. Drizzle the honey syrup decoratively and top with a star anise. Serve immediately while temperatures provide textural contrast. The warmth and cold create an elegant sensory experience.
+
+## Storage
+The roasted peaches and honey glaze can be prepared several hours ahead and kept at room temperature, then gently reheated. The raw peach coulis should be prepared no more than 2-3 hours ahead to preserve the freshness; make it immediately before serving if possible. Do not refrigerate any component; serve at room or warm temperature for best flavor.
+
 ## Method
 1. Preheat the oven to 180°C. Bring a medium saucepan of water to the boil. 
 1. Put the honey and star anise into a small pan and heat gently for 5 minutes.

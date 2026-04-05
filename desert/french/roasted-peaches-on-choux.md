@@ -17,6 +17,21 @@
 - juice of 1 lemon
 - icing sugar (to dust)
 
+## Overview
+A simple yet elegant celebration of ripe peaches served on crispy choux crowns topped with flaked almonds, surrounded by a butterscotch caramel enriched with grenadine. This refined dessert showcases the peak flavor of fresh summer peaches, treating them as the star ingredient while providing textural contrast with the choux.
+
+## Notes
+- Ripe peaches are essential; unripe ones taste tart and mealy, overripe ones become mushy during roasting; select peaches that yield slightly to gentle finger pressure
+- The choux crowns (piped as discs) are propped open at halfway through cooking to allow steam to escape, ensuring crispness of the exterior with slight softness inside
+- The caramel made from sugar and butter must be very pale (light golden) rather than dark; the grenadine adds depth and beautiful color without overpowering
+- Continuous basting during roasting keeps the peaches moist and coats them with caramel; this is essential to prevent drying
+
+## Serving
+Place a crispy choux crown on each plate, top with a roasted peach using a palette knife, dust with icing sugar for elegant presentation, and spoon additional caramel over and around. Serve at room temperature or lightly chilled. The contrast between the crispy choux, soft peach, and silky caramel creates a harmonious, sophisticated dessert.
+
+## Storage
+The choux crowns can be baked 1 day ahead and kept in an airtight container at room temperature. The peaches can be roasted and cooled in caramel up to 4 hours ahead, then gently rewarmed before serving. Assemble only when ready to serve to maintain the crispness of the choux. This is a dessert best served fresh rather than held for extended periods.
+
 ## Method
 ### To peel the peaches
 1. Lightly run the tip of a knife around the circumference of each peach, then immerse them in a pan of boiling water.

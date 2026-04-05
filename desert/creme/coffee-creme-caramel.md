@@ -18,6 +18,21 @@
 - 60 grams caster sugar
 - 10 grams coffee beans (crushed, to serve)
 
+## Overview
+An elegant custard-based crème caramel delicately infused with ground coffee, providing subtle bitterness and depth that balances the sweet caramel coating and silky custard. The coffee and caramel pairing creates a sophisticated flavor profile suitable for dinner parties and special occasions.
+
+## Notes
+- Ground coffee (not whole beans) should be infused into hot milk and strained carefully to remove all particles; straining through a sieve several times ensures clarity
+- The water bath (bain-marie) is essential, maintaining a gentle, even heat that creates a silky custard rather than grainy, curdled texture
+- The caramel coating (at exactly 155°C) provides the right crunch without bitterness; cooking to darker amber creates an unpleasantly bitter coating
+- The crushed whole coffee beans for garnish should be added just before serving and scattered lightly to avoid grittiness
+
+## Serving
+Turn the crème caramel out onto a shallow bowl or plate, allowing the caramel sauce to pool around the silky custard. Scatter crushed roasted coffee beans at the base and serve immediately. The contrast between warm coffee notes in the custard and the caramel sweetness balances perfectly.
+
+## Storage
+Baked crème caramels keep refrigerated for up to 3 days in their moulds, covered with plastic film; the custard texture and caramel flavor actually improve as flavors integrate. Do not turn out until ready to serve, as the caramel coating begins to change texture after exposure to air. Serve at cold or room temperature; chilled provides maximum contrast.
+
 ## Method
 ### For the caramel
 1. Dissolve the sugar in 2 tablespoons of water in a small, heavy-based pan and bring gently to the boil. 

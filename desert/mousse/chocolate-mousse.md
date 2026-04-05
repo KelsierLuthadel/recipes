@@ -29,6 +29,21 @@
 - 150 ml [crème anglaise](../../baking/cremes/creme-anglaise.md)
 - 240 ml double cream
 
+## Overview
+An incredibly rich and luxurious chocolate mousse layered with a delicate chocolate Genoese sponge base and lavender crémeux, then topped with tart berry compote and fresh berries. This sophisticated three-component dessert showcases chocolate in multiple forms with complementary flavor and textural contrasts.
+
+## Notes
+- The chocolate Genoese must be thin (5-6 minutes baking) and then cut into neat rounds to fit inside the metal rings; a 6.5cm cutter matches the ring diameter
+- The lavender crémeux requires precise temperature control (never above 85°C); an instant-read thermometer ensures food safety and prevents scrambling
+- All three components should be prepared before assembly begins; this requires careful timing and advance preparation
+- The mousse is very rich; individual rings (12 portions) are appropriately large; the berry compote provides tartness to balance the richness
+
+## Serving
+Remove from the ring by briefly heating the exterior with a warm tea towel or blowtorch, then slide onto a plate. Top or serve alongside a generous spoonful of berry compote with several fresh berries. Serve at the temperature the mousse was frozen (usually 5-10 minutes at room temperature is perfect for texture).
+
+## Storage
+Assembled and frozen in their rings, these desserts keep for up to 2 weeks in the freezer, well-wrapped to prevent freezer burn. The berry compote can be made several days ahead and refrigerated. Remove the mousse from the freezer 5-10 minutes before serving for the best texture; rock-hard frozen desserts are unpleasant and too-warm ones become soupy.
+
 ## Method
 ### To make the compote
 1. Dissolve the sugar in 200 ml water in a saucepan over a medium heat.

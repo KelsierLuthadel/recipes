@@ -22,6 +22,21 @@
 - 500 grams mixed red fruits
 - granulated sugar
 
+## Overview
+Light, airy beignets coating fresh berries, with a slightly crispy exterior from the yeasted batter and a tender interior that yields to reveal juicy fruit. These ethereal fried pastries showcase fresh summer berries in their simplest, most elegant form, perfect for elegant dessert courses or petit fours.
+
+## Notes
+- The batter requires 2+ hours standing time for the yeast fermentation to develop flavor and airiness; rushed timing results in dense, heavy beignets
+- The egg white folded in at the last moment lightens the batter; fold gently to maintain the air bubbles created during the rising time
+- Berries must be at peak ripeness and flavor; underripe berries taste tart and overripe ones release too much liquid and become mushy during frying
+- The oil temperature of 160-170°C is crucial; too hot causes the exterior to burn before the interior cooks, too cool results in greasy absorption
+
+## Serving
+Serve the beignets immediately after frying while they're still warm and the exterior is crisp, dusted generously with granulated sugar. Accompany with a jug of red berry coulis for dipping and additional sweetness. Serve as an elegant petit four or dessert course.
+
+## Storage
+Beignets are best served immediately after frying while warm and crisp. The batter can be made 2-3 hours ahead and kept covered at room temperature (the fermentation continues slowly at room temperature). The berries should be prepared just before dipping and frying to prevent them from releasing liquid. Once cooked, beignets gradually become soft and should not be held more than 30 minutes before serving.
+
 ## Method
 ### To make the batter
 1. In a small bowl, whisk the yeast into one-third of the milk.

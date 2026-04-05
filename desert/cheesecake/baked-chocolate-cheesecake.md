@@ -26,6 +26,21 @@
 - 2 tablespoons espresso coffee powder
 - 2 tablespoons caster sugar
 
+## Overview
+A rich and elegant chocolate cheesecake with a delicate shortcrust pastry base, silky chocolate-cream cheese filling, and a distinctive espresso-coffee liqueur sauce. This sophisticated dessert balances the intensity of chocolate with the subtle bitterness of coffee, creating a complex flavor profile suitable for elegant entertaining.
+
+## Notes
+- The pastry should be blind-baked to prevent a soggy bottom layer; finishing with an additional 5 minutes of baking without baking beans ensures crispness
+- The filling should be smooth and creamy rather than whipped, which would incorporate too much air and cause cracks; mixing gently is essential
+- Baking at 180°C for the specified time (30-35 minutes) creates a cheesecake that is just set at the edges with a slight-wobble in the center; overbaking results in cracks and dryness
+- The espresso sauce provides elegant bitterness that balances cheesecake richness; serving it warm alongside cold cheesecake creates temperature contrast
+
+## Serving
+Slice the cooled cheesecake with a sharp knife dipped in hot water (wipe between cuts) for clean presentation. Serve chilled with warm espresso sauce drizzled over or pooled around the slice. The contrast between cold cheesecake and warm sauce is essential.
+
+## Storage
+Baked cheesecake keeps refrigerated for up to 4 days, tightly wrapped to prevent absorption of refrigerator odors; the flavor actually matures and improves. Do not freeze, as freezing alters the texture of cream cheese. The espresso sauce can be made 2-3 days ahead and reheated gently before serving. Serve chilled from the refrigerator.
+
 ## Method
 ### For the pastry
 1. Make the pastry by rubbing the flour, butter and sugar together with the orange zest and binding together with the water. 

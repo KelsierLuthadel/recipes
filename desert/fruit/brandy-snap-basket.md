@@ -23,6 +23,20 @@
 - 250 gram crème Chantilly
 - 18 perfectly ripe raspberries
 
+## Overview
+Delicate, lace-like brandy snap pastry baskets filled with silky tanginess and fresh raspberries, these elegant petit fours showcase the classic combination of crispy-sweet with fresh tartness. The ginger and Cognac in the brandy snap mixture add sophisticated depth and warmth to what could otherwise be a one-dimensional dessert.
+
+## Notes
+- The brandy snap mixture must be made with precision: exact ingredient proportions and thorough mixing create the right texture for spreading and shaping
+- Timing is critical: the brandy snaps must cool just enough to hold shape (30 seconds to 1 minute) before shaping; too hot, they tear and too cool, they become brittle and unformable
+- Using a tartlet tin or small bowl as a mold ensures uniform, attractive baskets; working quickly prevents the brandy snap from setting in your hands
+- The orange juice reduction folded into crème Chantilly provides tartness to balance the sweetness; do not skip this step
+
+## Serving
+Assemble and fill the baskets immediately before serving, as they are fragile and will soften if filled too far ahead. Arrange on individual serving plates with raspberries and rhubarb artfully positioned. These are elegant petit fours or a delicate dessert course.
+
+## Storage
+The baked, unshaped brandy snap rounds can be stored at room temperature in an airtight container for up to 3 days; if they become too brittle to shape, soften them briefly in a 180°C oven for 1-2 minutes. The un-filled baskets keep for 2-3 days covered. The rhubarb filling and crème Chantilly should be prepared the same day but no more than 2-3 hours ahead. Fill and assemble only when ready to serve.
 
 ## Method
 ### For the filling

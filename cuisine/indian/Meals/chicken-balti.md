@@ -20,7 +20,7 @@
 - 1 tsp paprika 
 - 250ml [base curry sauce](../Base/curry-base.md) (heated )
 - 200g skinless chicken breast or thigh meat, cut into small pieces
-- 1 tbsp [garam masala](../Base/garam-masala.md)
+- 1 tbsp [garam masala](../Spice-Mixes/garam-masala.md)
 - 1 tsp dried fenugreek leaves 
 - Salt 
 - Chopped coriander to serve 

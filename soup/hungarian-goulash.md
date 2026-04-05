@@ -8,15 +8,33 @@
 
 **Serves:** 4
 
+**Prep time:** 20 mins
+
+**Cooking time:** 90 mins
+
+## Overview
+This traditional Hungarian goulash is a rich, hearty stew featuring tender beef simmered with sweet paprika, caraway seeds, and vegetables. Originating from 9th-century Hungary, it's a comforting dish that embodies the flavors of the region's pastoral heritage. Perfect for a warming meal on chilly days.
+
 ## Ingredients
+
+### Protein
 - 700 grams beef chuck steak
-- 5 onions
+
+### Fat
 - 2 tablespoons of olive oil
+
+### Vegetables
+- 5 onions
+- 250 grams tomatoes
+- 3 large potatoes
+
+### Seasonings
 - 2 heaped tablespoons sweet Hungarian paprika
 - ½ teaspoon whole caraway seeds
-- 250 grams tomatoes
 - 750 ml beef stock
-- 3 large potatoes
+- Salt and pepper to taste
+
+### Garnish
 - Fresh flat leaf parsley
 
 ## Method
@@ -42,3 +60,15 @@
 
 ### Bringing the soup to the table.
 1. Serve, topped with a sprinkling of chopped parsley.
+
+## Notes
+- **Paprika:** Use sweet Hungarian paprika for authentic flavor; it adds color and mild sweetness.
+- **Beef:** Chuck steak is ideal for slow cooking; cut into uniform cubes for even cooking.
+- **Simmering:** Allow at least 1 hour for the beef to become tender; longer is better.
+
+## Serving
+Serve hot, topped with fresh chopped parsley.
+
+## Storage
+- Refrigerate up to 3 days; flavors improve over time.
+- Freezes well up to 3 months; thaw and reheat gently.

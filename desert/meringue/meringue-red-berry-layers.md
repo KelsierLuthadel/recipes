@@ -13,6 +13,21 @@
 - 500 grams ripe mixed berries
 - juice of 1 lemon
 
+## Overview
+An impressive three-layer dessert built with crispy French meringue rounds interspersed with poached berries and their brilliant ruby coulis. This sophisticated construction offers multiple textural contrasts and celebratory visual appeal, perfect for special occasions when simple elegance impresses most.
+
+## Notes
+- French meringue must be spread to consistent 4mm thickness over the marked circles; thickness variations result in uneven cooking and inconsistent crispness
+- Low oven temperature (100°C) for extended time (1 hour) creates crispy, dry meringues rather than chewy ones; ensure your oven runs true to temperature
+- Add berries to the poaching syrup in order of firmness (firm first, delicate last) to ensure each type cooks for the correct duration
+- The coulis should be made from less-perfect berries; reserve the finest whole berries for layering and presentation
+
+## Serving
+Build the layers directly on serving plates: place a meringue round, top with poached berries and coulis, add another meringue, more berries and coulis, then crown with a final meringue round. Spoon additional coulis artfully around the base. The height and structure showcase this dessert's complexity. Serve immediately while meringues are still crisp.
+
+## Storage
+Meringue rounds keep for 2-3 days in an airtight container at room temperature (humidity is their enemy). The poached berries and coulis can be prepared the day before and refrigerated in a covered container. Assemble only as you serve, as the meringue rounds will absorb moisture from the berries and coulis within 15-20 minutes, becoming soft rather than crisp.
+
 ## Method
 ### To make the meringues
 1. Preheat the oven to 100°C.

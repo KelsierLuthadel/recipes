@@ -17,6 +17,21 @@
 - 120 grams caster sugar
 - 30 grams liquid glucose
 
+## Overview
+An elegant and refined rice pudding infused with the warm, floral notes of cardamom, set in a caramel-coated mold like a crème caramel for elegant presentation. The subtle spice and tender rice create a comforting yet sophisticated dessert that feels both nostalgic and luxurious.
+
+## Notes
+- Cardamom pods should be crushed and wrapped in muslin to infuse flavor while remaining easy to retrieve; loose seeds would be unpleasant to encounter
+- The rice should cook in the milk mixture over gentle heat, stirring occasionally, to ensure even cooking and prevent sticking or burning
+- The egg yolk and rice mixture should reach exactly 120°C in the oven; neither higher (which causes curdling) nor lower (which prevents setting)
+- The caramel must be applied carefully, coating two-thirds up the sides at correct temperature for the proper brittle texture
+
+## Serving
+Turn out the set pudding from its mold onto a serving plate, allowing the clinging caramel to pool around the base. Serve cold for best flavor and texture contrast. The custard-like center with the crisp caramel exterior creates a sophisticated presentation.
+
+## Storage
+The assembled moulds keep refrigerated for up to 3 days; turn out only just before serving to maintain the caramel coating's integrity. The unmolded pudding softens gradually as the caramel absorbs moisture from air and custard, so serve within one hour of unmolding for the best experience. Do not refrigerate after unmolding; serve at the temperature at which removed from cold storage.
+
 ## Method
 1. Bring the milk to the boil in a pan, then tip in the rice.
 1. Add the cardamom.

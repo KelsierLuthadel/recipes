@@ -27,7 +27,7 @@
 - 1 tsp ground turmeric 
 - 300ml double cream 
 - 3 tbsp butter, chilled 
-- 1 tbsp [garam masala](../Base/garam-masala.md)
+- 1 tbsp [garam masala](../Spice-Mixes/garam-masala.md)
 - Salt and freshly ground pepper 
 
 ## Method

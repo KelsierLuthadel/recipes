@@ -10,7 +10,7 @@
 - 4 tbsp rapeseed oil or seasoned oil
 - 1 small onion, very finely chopped 
 - 2 tbsp garlic and ginger paste
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
+- 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 1 tsp chilli powder 
 - 2 tbsp sugar 
 - 125ml [tomato purée ](../Base/tomato-puree.md)

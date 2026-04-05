@@ -8,6 +8,9 @@
 
 **Serves:** 4 - 6
 
+## Overview
+A vibrant Thai curry celebrating fresh vegetables in a spiced coconut broth. Eight chillies may seem intense, but the creamy coconut milk tempters the heat into a balanced, complex warmth. The vegetables remain crisp-tender, and the holy basil adds an authentic finishing touch. Fragrant, colorful, and deeply satisfying.
+
 ## Ingredients
 - 75 grams aubergines
 - 75 grams baby corn
@@ -31,5 +34,22 @@
 1. Heat the oil in a wok and add the chilli mixture and fry over a medium heat for 2 - 3 minutes, stirring continuously.
 1. Stir in the coconut milk and bring to the boil.
 1. Add the vegetables and cook for about 5 minutes, or until they are crisp but tender.
-1. Season with fish sauce, and salty if needed.
+1. Season with fish sauce, and salt if needed.
 1. Spoon on to heated plates, garnish with holy basil leaves, and serve.
+
+## Notes
+- **Chilli heat:** Eight fresh chillies create authentic heat; the coconut milk acts as a cooling agent. Adjust for your tolerance.
+- **Vegetable uniformity:** Cut vegetables to similar sizes and thicknesses so they cook evenly in the brief cooking time.
+- **Holy basil:** This is essential for authentic Thai flavor—regular basil or mint is a distant second choice.
+- **Fish sauce:** Use quality fish sauce; it adds umami depth without fishiness if cooked with the vegetables.
+
+## Serving
+Serve with: Jasmine rice or rice noodles
+Garnish with: Fresh holy basil leaves, thin red chilli slices, and lime wedge
+Accompaniment: Extra lime juice for squeezing at the table
+
+## Storage
+- Keeps 2-3 days refrigerated in an airtight container
+- Freezes well up to 3 months (freeze in portions for convenience)
+- Best reheated gently on stovetop with a splash of coconut milk to restore sauce consistency
+- Vegetables will soften slightly on reheating but remain palatable

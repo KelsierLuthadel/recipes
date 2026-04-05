@@ -17,8 +17,8 @@
 - 2 tbsp coconut flour 
 - 3 tbsp finely chopped coriander
 - 1 tsp Kashmiri hot chilli powder 
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
-- 1 tbsp [tandoori masala powder](../Base/tandoori-masala-powder.md)
+- 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
+- 1 tbsp [tandoori masala powder](../Spice-Mixes/tandoori-masala.md)
 - ½ tbsp freshly ground black pepper 
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 625ml [base curry sauce](../Base/curry-base.md)
@@ -27,7 +27,7 @@
 - 2 tbsp smooth mango chutney 
 - Sugar, to taste 
 - Juice of 1 lime 
-- 1 tsp [garam masala](../Base/garam-masala.md)
+- 1 tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - 3 tbsp freshly chopped coriander
 - Salt 
 

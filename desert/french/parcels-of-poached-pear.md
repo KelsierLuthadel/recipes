@@ -16,6 +16,21 @@
 - groundnut oil (to fry)
 - granulated sugar (to dust)
 
+## Overview
+Elegant little parcels of crispy puff pastry encasing tender poached pear wrapped in delicate crêpes and perfumed with mint. These impressive individual presentations combine multiple sophisticated elements and layers of flavor, making them perfect for elegant dinner parties or French restaurant-style service.
+
+## Notes
+- Rolling the puff pastry very thin (2mm maximum) ensures it fries to a light, crispy texture rather than thick and doughy
+- The pears must be ripe enough to be tender but firm enough to hold their shape and cut into neat dice; underripe pears are tough and overripe ones disintegrate
+- The crêpes wrap the pear pieces and provide moisture and delicate flavor; they soften in the poaching syrup but remain structurally intact
+- The oil temperature of exactly 170°C is critical; hotter oil burns the pastry exterior before the interior heats and colder oil results in soggy, greasy parcels
+
+## Serving
+Serve the parcels hot, dusted with granulated sugar which adds crunch and sweetness. The contrast between the crispy fried pastry exterior and the soft, meltingly tender pear and crêpes inside is the dessert's appeal. Serve with a small jug of the poaching syrup or vanilla crème anglaise.
+
+## Storage
+The poached pears can be prepared 1 day ahead and refrigerated in their syrup. The puff pastry and crêpes can be prepared several hours ahead and kept refrigerated separately (crêpes wrapped to prevent drying). Assemble the parcels just before frying (up to 30 minutes ahead, refrigerated) to prevent sogginess. Fry only when ready to serve; do not attempt to reheat as they will lose their crispness.
+
 ## Method
 ### To cook the pears
 1. Put 500 ml of water into a saucepan with the sugar and cloves and bring to the boil over a gentle heat.

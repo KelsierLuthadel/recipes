@@ -14,6 +14,21 @@
 - 2 tablespoons raspberry eau-de-vie or kirsch
 - 18 raspberries to finish
 
+## Overview
+A light and fruity mousse that lets the pure, bright flavor of raspberry shine through, combined with airy Italian meringue and whipped cream for a luxurious texture. This elegant dessert celebrates the essence of raspberries without overwhelming them with other flavors or fussy presentation.
+
+## Notes
+- Choose ripe, fragrant raspberries at peak season; the quality of fruit is paramount since it is the sole flavor driver in this dessert
+- Pushing the purée through a fine sieve removes the harsh seeds; this creates silky texture and prevents a gritty mouthfeel
+- The eau-de-vie or kirsch should be warmed to about 50°C (warm to the touch) before adding gelatine; too-hot liquid can cause overcooking
+- Fold gently when combining components; roughness will deflate the airy meringue and result in a dense texture
+
+## Serving
+Top each mousse with three beautiful raspberries arranged in a trio, perhaps dusted lightly with icing sugar for elegance. Serve lightly chilled as a standalone elegant dessert. The simplicity of presentation allows the pure, clean flavor of raspberry to shine.
+
+## Storage
+Once set and refrigerated (2+ hours), cover with plastic film and keep for up to 2 days. The freshest possible raspberries should be reserved for garnishing just before serving. If preparing ahead, add reserved raspberries within 1 hour of serving to prevent them from softening or leaking red color onto the mousse.
+
 ## Method
 1. Purée the raspberries, and tip into a chinois or fine-meshed conical sieve set over a bowl.
 1. Push the purée mixture through the sieve using a ladle, discarding the harsh seeds.

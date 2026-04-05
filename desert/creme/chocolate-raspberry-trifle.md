@@ -26,6 +26,21 @@
 - 1 lemon juice
 - 60 grams icing sugar
 
+## Overview
+A sophisticated trifle of chocolate Genoise sponge, rich chocolate crème pâtissière, vibrant raspberry coulis, and silky white chocolate ribbons, topped with whipped cream and fresh raspberries. This elegant construction showcases beautiful color contrasts and complementary chocolate-raspberry flavors in a showstopping glass presentation.
+
+## Notes
+- The chocolate sponge is best prepared or purchased 1 day ahead; this drying allows it to soak up the wine and flavorings without becoming mushy
+- The white chocolate must be melted in a cool bowl over hot water (not boiling), stirring frequently to prevent scorching; overheated white chocolate becomes grainy
+- The layering creates visual beauty; ensure each layer is distinct and visible through the serving vessel for maximum impact
+- Whipped cream piped decoratively rather than just spooned adds elegance and professionalism to the presentation
+
+## Serving
+Assemble the trifle in a large glass serving bowl just before dinner so the components remain distinct and visible; this also prevents continued soaking. Top with whipped cream piped decoratively and arrange fresh raspberries. Dust lightly with icing sugar immediately before serving.
+
+## Storage
+All components can be prepared the day before: sponge, crème pâtissière (refrigerated), and raspberry sauce (refrigerated). The white chocolate can be melted and cooled slightly before assembly. Assemble no more than 3-4 hours before serving to keep layers distinct and whipped cream fluffy. The trifle is best served the same day it is assembled.
+
 ## Method
 ### For the crème pâtissière
 1. Heat the milk and two-thirds of the sugar in a pan. 

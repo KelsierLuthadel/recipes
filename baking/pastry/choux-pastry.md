@@ -4,7 +4,10 @@
 
 *Choux pastry is enormously versatile, which makes it a marvelous, indispensable component of all types of cooking and patisserie.*
 
-**Yield:** 22
+**Serves:** 22
+
+## Overview
+Pâte à choux is a unique pastry made without fat in the dough itself, relying instead on steam for leavening to create light, hollow shells. Its versatility allows it to be piped into countless shapes for both sweet and savory preparations. The characteristic crispy exterior and hollow interior make it an essential technique in pastry work. IMPORTANT: The 'drying out' stage is critical for success.
 
 ## Ingredients
 - 125 ml water
@@ -29,3 +32,15 @@
 1. If you like, glaze the shapes and make them lightly with the back of a for, dipping it into the glaze each time.
 1. Bake in a preheated oven, then open the door slightly (1-2 cm) after about 4-5 minutes and leave it ajar. 
 1. Cooking time will vary from 10-20 minutes, depending on the size of the buns.
+
+## Notes
+- The 'drying out' stage on the heat is essential; it evaporates moisture and allows the paste to develop the structure needed for proper rise
+- Stir continuously during the drying stage to cook evenly; the mixture should form a ball that comes away from pan sides
+- Add eggs one at a time, ensuring each is fully incorporated before adding the next; this creates a smooth, pipeable consistency
+- Opening the oven door slightly after 4-5 minutes allows steam to escape gradually, preventing collapse while ensuring crisping
+
+## Serving
+Fill choux buns with crème pâtissière, whipped cream, or ice cream; top with caramel sauce or chocolate glaze. Form éclairs for elegant desserts, or use for savory applications with cheese and herb fillings. Arrange in pyramid (Paris-Brest style) for dramatic presentations, bound with caramel.
+
+## Storage
+Choux pastry is best filled and served fresh, though unfilled buns may be stored in an airtight container for 1 day. Refresh in a 180°C oven for 5 minutes to re-crisp. Filled choux should be consumed within 2-4 hours as the crispy exterior absorbs moisture from fillings over time. Do not refrigerate or freeze filled choux.

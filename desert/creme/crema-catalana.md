@@ -16,6 +16,21 @@
 - 40 grams cornflour
 - 80 grams demerara sugar
 
+## Overview
+A Catalan custard dessert featuring a silky, spiced cream custard base infused with fennel, cinnamon, and citrus zests, finished with a crisp caramelized sugar crust created with a blowtorch or under a hot grill. This is essentially a regional variation of crème brûlée with distinctive warm spices that hint at Middle Eastern influences.
+
+## Notes
+- The infusion of fennel seeds, cinnamon, and citrus zests imparts distinctive warm spice flavor; the 5-10 minute infusion time is sufficient without over-infusing
+- The cornflour-thickened custard is less silky than traditional custard but sets properly without gelatine, creating a unique texture that is essential to the dish
+- The double torching (creating two layers of caramel) produces a more satisfying thickness and flavor than a single torch round; waiting 5 minutes between applications prevents over-heating the custard underneath
+- Serving immediately while the contrast between warm, crisp caramel and cold cream is maximum enhances the appeal
+
+## Serving
+Spoon from the individual dishes directly into serving bowls, breaking through the caramel crust to reveal the spiced cream within. Serve immediately, enjoying the textural and temperature contrast. no accompaniment is necessary.
+
+## Storage
+The custard bases can be made 1 day ahead and refrigerated in their chilling dishes, covered with plastic film. The caramelized sugar coating must be applied no more than 30 minutes before serving; beyond that, the sugar coating gradually softens from the custard's moisture. These are best served the day they are made.
+
 ## Method
 1. Put the milk, fennel seeds, cinnamon and 100 grams of the caster sugar in a saucepan and bring to the boil. 
 1. As soon as it boils, add the citrus zests. Take off the heat, cover and leave to infuse for 5 - 10 minutes.

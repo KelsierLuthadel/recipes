@@ -24,6 +24,21 @@
 - 15 grams ground almond
 - 15 grams flaked almonds
 
+## Overview
+A generous and warming autumnal crumble featuring tart cranberry, fragrant quince, and sweet apples, crowned with a buttery almond crumble topping studded with toasted flaked almonds. This deeply flavored dessert showcases the subtle flavors of fall fruits balanced with sweet spices and served warm for maximum comfort.
+
+## Notes
+- The soaking of cranberries in the syrup plumps them and softens their tartness; this is essential as raw cranberries would be unpleasantly sharp and hard
+- Quince requires long, slow baking to become tender; trust the timing and test with a skewer for doneness rather than appearance
+- The crumble topping should be slightly uneven and crumbly rather than smooth and packed; these variations create appealing texture and crispness
+- Brown sugar in the crumble adds depth of flavor that white sugar cannot match; it also helps create slight chewiness in the topping
+
+## Serving
+Serve the crumble warm directly from the baking dish into individual bowls, allowing 5-10 minutes resting time for juices to set slightly. Top each serving with crème anglaise or thick cream. The warmth allows the toppings to pool and intermingle beautifully.
+
+## Storage
+The assembled crumble can be prepared up to 4 hours ahead and kept at room temperature, then baked when ready to serve. Baked crumble keeps at room temperature for 1 day; reheat gently in a 160°C oven for 10-15 minutes. Do not refrigerate, as the pastry topping becomes dense and hard. The individual components (cooked fruit, crumble topping) can be prepared the day before and assembled when ready to bake.
+
 ## Method
 ### To prepare the filling
 1. Bring the sirop a sorbet to the boil in a pan. 

@@ -18,7 +18,7 @@
 - 200ml double cream 
 - Juice of 1 or 2 lemons, to taste 
 - Bright red food colouring powder (optional) 
-- ½ tsp [garam masala](../Base/garam-masala.md)
+- ½ tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - 3 tbsp very finely chopped coriander
 - Salt 
 

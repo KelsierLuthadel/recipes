@@ -21,6 +21,21 @@
 - 100 grams caster sugar
 - 12 mint sprigs
 
+## Overview
+A stunning frozen parfait with bright citrus flavor from limoncello and fresh lemon, topped with a jewel-like arrangement of fresh raspberries and their deep ruby coulis. This sophisticated frozen dessert combines a silky-smooth Italian custard base with the zesty brightness of lemon, making it perfect for summer entertaining and elegant dinner parties.
+
+## Notes
+- The egg and lemon mixture must reach 80-85°C for safety with raw eggs, then cooled to 20°C (approximately 10 minutes of whisking) before adding dissolved gelatine to prevent heat from destroying the egg structure
+- Gelatine should be softened in cold water, then added to warm limoncello to dissolve completely; let it cool slightly before whisking into the egg mixture to prevent cooking the eggs
+- Whip the creams to ribbon consistency (slightly thickened but still pourable); overwhipping creates a grainy texture when folded into the custard
+- Select the most perfect raspberries for the topping and halve them gently; the surrounding coulis provides tartness to balance the sweet parfait
+
+## Serving
+Release the parfait onto a chilled plate and carefully spoon a hollow in the center (dipped spoon prevents cracking). Fill the hollow with fresh raspberries and surround with vibrant raspberry coulis and drizzles of coulis around the base. Top with a single mint sprig for color. Serve immediately.
+
+## Storage
+The assembled and unmolded parfait can be prepared up to 2-3 hours before serving and returned to the freezer, though the hollow should be made just before plating. The frozen parfait in its mold keeps for up to one week; cover with cling film to prevent freezer burn. The raspberry coulis can be made 2-3 days ahead and stored covered in the refrigerator. The fresh raspberries for topping should be added only at plating time.
+
 ## Method
 ### To make the parfait
 1. Mix the egg, egg yolks sugar, lemon zest and lemon juice in a heatproof bowl, then set over a pan of simmering water, making sure that the bottom of the pan does not touch the water in any way. 

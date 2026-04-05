@@ -20,6 +20,21 @@
 - 40 grams caster sugar
 - 30 grams butter (diced)
 
+## Overview
+One of the most beloved French desserts: light choux buns traditionally filled with vanilla ice cream and drowned in warm chocolate sauce, creating a beautiful contrast between cold and hot, crispy and soft. This uncomplicated yet utterly luxurious dessert requires only quality components and careful technique for showstopping results.
+
+## Notes
+- The choux buns must be piped small (3cm diameter) and baked until completely crisp on the outside while remaining slightly soft inside; this allows filling without breaking and creates the signature textural contrast
+- Propping the oven door open during the final minutes of baking allows steam to escape, ensuring crispness rather than chewiness
+- The chocolate sauce should remain warm and pourable when served; keeping it in a bain-marie over barely warm water prevents scorching while maintaining temperature
+- Fill the buns only as you serve to prevent sogginess; the sauce will soften the pastry if sitting too long
+
+## Serving
+Arrange the filled profiteroles in shallow bowls or pedestal dishes, pour warm chocolate sauce over generously, and serve additional sauce in a sauceboat. Serve immediately while the pastry is still crisp and the ice cream cold. The contrast between temperatures creates the essential appeal.
+
+## Storage
+Baked choux buns keep for 1-2 days in an airtight container at room temperature. The chocolate sauce can be made several hours ahead and reheated gently before serving. Vanilla ice cream should be freshly made or from the freezer. Fill the buns only when ready to serve to prevent softening. Do not refrigerate filled profiteroles as the cold will harden the pastry.
+
 ## Method
 ### To make the choux buns
 1. Preheat the oven to 180°C.

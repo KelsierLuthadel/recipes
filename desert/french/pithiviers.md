@@ -12,6 +12,21 @@
 - eggwash (1 egg yolk mixed with 1 tablespoon of milk)
 - 30 grams icing sugar (to glaze)
 
+## Overview
+A stunning and elegant puff pastry tart filled with almond cream and topped with decorative curved rays and petal shapes, finished with a shimmering icing sugar glaze. This classical French pastry requires precision and skill but rewards with an impressive presentation and the delicious combination of buttery pastry, almond cream, and caramelized sugar.
+
+## Notes
+- The puff pastry for the bottom should be thinner (3mm) than the top (4mm) to ensure the base doesn't rise as much as the top, creating an elegant dome shape
+- Brushing the edges with eggwash before topping creates a seal that prevents the layers from separating during baking
+- The decorative scoring (curved rays and diagonal lines on petals) must be shallow (1mm) to create visual interest without cutting through both pastry layers
+- The final temperature increase to 200°C and icing sugar glaze create the characteristic caramelized, glossy finish; watch carefully to avoid burning
+
+## Serving
+Slice the pithiviers at the table with a sharp knife to reveal the beautiful interior. Serve warm or at room temperature with a spoonful of crème anglaise alongside if desired. The visual presentation with its decorative top layer and the contrast between crispy pastry and smooth filling make this a showstopper.
+
+## Storage
+The assembled but unbaked pithiviers can be refrigerated for up to 4 hours before baking, allowing you to bake when ready to serve. The baked pithiviers is best served warm or at room temperature on the day it's baked; once cool, the pastry gradually becomes soft. Cover lightly with foil if keeping warm for an hour or so after baking.
+
 ## Method
 ### Prepare the pastry
 1. Cut the pastry into 2 pieces, one weighing 300 grams and the other 200 grams.

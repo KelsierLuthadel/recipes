@@ -24,6 +24,21 @@
 - 250 grams caster sugar
 - 2 teaspoon groundnut oil (to oil the mould)
 
+## Overview
+A magnificent choux pastry showpiece consisting of dozens of tiny profiteroles delicately bound together with caramel into a stunning cone shape that makes a striking centerpiece. This classic French dessert is filled with a luxurious combination of crème patissière and whipped cream, offering both visual drama and exquisite taste.
+
+## Notes
+- The choux pastry balls must be completely cooled before dipping in caramel; any residual heat can cause cracking or uneven coating
+- The caramel must reach exactly 160°C for proper brittleness; use a sugar thermometer for accuracy, as too cool will be sticky and too hot becomes hard and sharp
+- Work quickly when assembling; if caramel cools and becomes too thick, warm it gently over very low heat, but take care not to overheat or it will become darker and more bitter
+- Oil your hands and the mold generously with groundnut oil to prevent sticking; have all ingredients and equipment ready before beginning assembly
+
+## Serving
+Present the assembled croquembouche on a decorative serving plate or cake stand as an impressive centerpiece. Serve immediately after removing from the mold while the caramel is still crisp. Individual portions can be easily broken away and eaten with fingers. Accompany with a light dessert wine or champagne for elegant presentation.
+
+## Storage
+The choux balls can be baked 2-3 days ahead and stored in an airtight container at room temperature. The assembled croquembouche is best served immediately, as the caramel coating begins to absorb moisture from the air after a few hours, making it soft and sticky. If assembling ahead, keep in a very dry location and serve within 2-3 hours of assembly.
+
 ## Method
 1. Preheat the oven to 180°C.
 

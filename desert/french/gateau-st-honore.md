@@ -16,6 +16,21 @@
 - Caramel
 - 200 grams caster sugar
 
+## Overview
+The pinnacle of classical French pastry work, this elaborate gâteau consists of a puff pastry base topped with a choux ring, surrounded by small caramel-topped choux puffs, and filled with vanilla-infused crème chantilly dusted with cocoa. This architectural masterpiece demands skill and precision but delivers stunning visual impact and sophisticated flavor.
+
+## Notes
+- All components must be perfectly executed: the puff pastry thin and crisp, the choux rings properly shaped, the puffs uniform in size
+- The spiral of choux piped on the pastry base must be continuous and evenly spaced; this base provides structural support for the crown
+- Caramel coating the puffs must be at precisely 160°C; cooler caramel becomes sticky and ruins the crisp puff, hotter caramel becomes too hard to bite through
+- Final assembly should happen as close to serving as possible; the cocoa dust absorbs moisture from the cream and becomes muddy rather than velvety if applied too far ahead
+
+## Serving
+Present the St. Honoré on a decorative serving plate and bring to the table whole for drama, then carefully cut into wedges at the table. Each slice shows the beautiful architectural layers. Serve immediately for maximum crispness and visual impact.
+
+## Storage
+All components can be prepared ahead: puff pastry base baked 1 day ahead, choux elements baked several hours ahead. Assemble no more than 1-2 hours before serving; beyond that, the crisp choux begins to soften from the moisture in the cream and the cocoa dust becomes damp. This is emphatically a dessert to execute near service time.
+
 ## Method
 ### Pastry base
 1. On a lightly floured surface, roll out the puff pastry to a 24 cm diameter disc, 2 mm thick.

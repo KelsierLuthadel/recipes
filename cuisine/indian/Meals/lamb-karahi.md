@@ -25,7 +25,7 @@
 - 1 tbsp Kashmiri chilli powder 
 - 3 tbsp julienned ginger 
 - 2 fresh green bullet chillies (roughly chopped)
-- 1 tsp [garam masala](../Base/garam-masala.md)
+- 1 tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - Fresh coriander 
 
 ## Method

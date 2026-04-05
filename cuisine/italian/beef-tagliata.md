@@ -1,41 +1,75 @@
-# Beef tagliata
+# Beef Tagliata
 
-![Name](resources/beef-tagliata.jpg)
+![Beef Tagliata](resources/beef-tagliata.jpg)
 
-*The name comes from tagliare, the Italian for 'to cut'; tagliata is a dish of seared steak cut into slices and served with rocket and Parmesan shavings.*
-
-*Searing is a great skill to master, the key is to have the pan really hot before starting. Rubbing the steak with oil is better than putting oil directly in the pan, and salting the streak afterwards instead of during cooking helps bring out the juices during resting instead of cooking.*
+*Tagliata takes its name from tagliare, meaning 'to cut' in Italian. Perfectly seared steaks are sliced and served with peppery rocket and shavings of Parmesan, finished with a fragrant rosemary and lemon oil. This is simple, elegant, and demands quality ingredients and technique.*
 
 **Serves:** 4
 
+## Overview
+Beef Tagliata is an elegant simplicity itself: thick-cut sirloin seared until a golden crust forms, rested to retain its juices, then sliced thin. The accompanying rosemary-infused oil with lemon zest and juice creates a sophisticated dressing that adds depth without heaviness, while peppery rocket and Parmesan shavings provide textural contrast. This is a dish that celebrates the quality of the beef and the importance of proper technique.
+
 ## Ingredients
-- olive oil (for cooking)
-- 120 ml olive oil
-- 2 sirloin steaks (approx. 400 grams each)
-- salt and freshly ground black pepper
+
+### Steaks & Oil
+- 2 sirloin steaks (approximately 400 grams each)
+- Olive oil (for cooking)
+
+### Rosemary Oil Dressing
+- 120 ml extra virgin olive oil
 - 3 garlic cloves (peeled and crushed)
-- 4 sprigs of rosemary
+- 4 sprigs fresh rosemary
 - 1 lemon (zested and juiced)
+
+### Garnish & Finishing
 - 60 grams rocket leaves
 - 40 grams Parmesan shavings
+- Salt and freshly ground black pepper to taste
 
 ## Method
-1. Place a heavy-bottomed frying pan over a height heat, and add a teaspoon of olive oil and heat until the pan begins to smoke.
-1. Meanwhile, rub the streaks with olive oil to coat them, and place in the hot pan for 15 - 20 seconds.
-1. Turn the steaks over and fry for a further 15 - 20 seconds.
-1. Repeat this, turning the steaks over, for 2 - 3 minutes depending on how well the steaks need to be cooked (see notes).
-1. Remove the steak from the pan, and rest on a wire rack with a plate underneath to catch the juices.
-1. Remove the pan from the heat, and discard most of the oil.
-1. Allow the pan to cool for a few minutes, then pour in the olive oil.
-1. Add the garlic and the rosemary to the oil.
-1. Rub the lemon zest between your fingers to release the oils, and add to the pan.
-1. Allow to infuse for 5 minutes while the meat is resting, then add 50 ml of lemon juice.
-1. Mix the dressing well and add the resting juices from the steak. Strain the dressing through a fine-meshed conical sieve.
-1. Slice the streaks thinly (5 mm wide) with a sharp knife.
-1. Season with salt and freshly ground pepper and place on a serving dish. Spoon over half the dressing.
-1. Mix the rocket leaves with the remaining dressing and place on top of the steak.
-1. Finish with the Parmesan shavings and a sprinkling of sea salt crystals.
 
-The level of done-ness of a steak can be determined by measuring the internal temperature of the meat.
+### Stage 1 – Sear Steaks
+1. Place a heavy-bottomed frying pan over high heat and add a teaspoon of olive oil, heating until the pan begins to smoke.
+2. Rub the steaks with olive oil to coat them evenly.
+3. Place steaks in the hot pan and sear for 15-20 seconds without moving.
+4. Turn and sear the other side for 15-20 seconds.
+5. Continue turning and searing every 20-30 seconds for 2-3 minutes, depending on desired doneness (see Notes).
+6. Remove steaks and place on a wire rack set over a plate to catch juices while resting.
 
-*bleu 45°C, rare 50°C, medium-rare 55°C, medium 60°C and well done 70°C*
+### Stage 2 – Make Rosemary Oil
+1. Remove the pan from heat and discard most of the oil.
+2. Allow the pan to cool for a couple of minutes.
+3. Pour in the 120 ml extra virgin olive oil.
+4. Add the crushed garlic and rosemary sprigs.
+5. Rub the lemon zest between your fingers to release the oils and add to the pan.
+6. Allow to infuse for 5 minutes while the meat rests.
+7. Add the lemon juice, mix well, then strain through a fine-meshed sieve.
+8. Stir in the resting juices from the steak.
+
+### Stage 3 – Slice & Assemble
+1. Slice each steak thinly (approximately 5 mm wide) with a sharp knife, maintaining the slices in order.
+2. Season the slices with salt and freshly ground pepper.
+3. Arrange on a serving dish and spoon over half the rosemary oil dressing.
+4. Toss the rocket leaves with the remaining dressing.
+5. Arrange dressed rocket on top of the steak.
+6. Finish with Parmesan shavings and a light sprinkling of sea salt crystals.
+
+## Notes
+- **Searing Technique:** A truly hot pan is essential—it creates the crust that keeps the juices inside. Rubbing the steak with oil rather than oiling the pan gives better control.
+- **Salt Timing:** Season after searing, not before, which allows the juices to be reabsorbed during resting, adding flavor throughout the meat.
+- **Doneness Levels:** Internal temperature—bleu 45°C, rare 50°C, medium-rare 55°C, medium 60°C, well-done 70°C. Use a meat thermometer for accuracy.
+- **Resting:** This is crucial—it allows carryover cooking and juice redistribution throughout the meat.
+
+## Variations
+**With Balsamic:** Drizzle aged balsamic vinegar over the finished dish for additional depth.
+**Hot Chilli Version:** Add a pinch of red chilli flakes to the rosemary oil for warmth.
+**With Truffle Oil:** Finish with a few drops of truffle oil instead of plain olive oil for luxury.
+
+## Serving
+Serve with: Crusty bread, roasted potatoes, or a simple green salad
+Garnish with: Fresh rocket, Parmesan shavings, and fleur de sel
+
+## Storage
+- Best served immediately while warm
+- Not recommended for freezing due to texture sensitivity
+- Leftover steak can be refrigerated up to 2 days and served cold as a salad component

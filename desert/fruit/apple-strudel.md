@@ -17,6 +17,21 @@
 - 30 grams icing sugar
 - clotted cream (to serve)
 
+## Overview
+A classic German dessert of apple filling rolled in layers of tissue-thin filo pastry, then baked until golden and dusted with icing sugar. The delicate, crispy pastry contrasts beautifully with the tender, spiced apples, creating a rustic yet elegant dessert that showcases both simplicity and technique.
+
+## Notes
+- The filo must be thin and pliable; work quickly to prevent drying once unrolled, and cover unused sheets with a damp tea towel
+- Blanching the raisins briefly hydrates them and improves their flavor; water-fresh raisins would sink during baking rather than distribute throughout
+- The filling should release moisture between prep and assembly (standing 15 minutes allows flavors to mingle); drain excess liquid or the bottom will become soggy
+-Rolling with the aid of a tea towel ensures an even cylinder and helps apply light pressure without squashing the apples; this technique prevents cracking
+
+## Serving
+Slice the warm strudel at the table for presentation impact, dusting each slice with icing sugar. Serve with clotted cream or vanilla ice cream alongside. The warmth of the strudel melting the ice cream creates an elegant contrast.
+
+## Storage
+Apple strudel is best served warm but can be held at room temperature for several hours; reheat gently in a 160°C oven for 10 minutes if needed. The unbaked strudel can be prepared several hours ahead and kept refrigerated, then baked when ready. Once baked, it keeps at room temperature for 1 day, covered lightly.
+
 ## Method
 ### Make the filling
 1. Blanch the raisins in boiling water for 2 minutes, drain and refresh in cold water, then drain well.

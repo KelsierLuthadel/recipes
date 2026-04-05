@@ -21,6 +21,21 @@
 - 80 grams icing sugar
 - juice of 1 lemon
 
+## Overview
+Moist and fragrant lemon cakes with a tender crumb, brushed with rum syrup and topped with a shimmering lemon icing glaze. These elegant loaves showcase brightness and simplicity, making them perfect for elegant entertaining or afternoon tea service, best sliced thin and served with fresh tea.
+
+## Notes
+- Room-temperature eggs incorporate smoothly without curdling; cold eggs require longer mixing and can result in textural problems
+- The double cream in the batter adds moisture and richness without requiring whole eggs; this technique creates particularly tender cake
+- Brushing with rum while still hot allows the alcohol and sweetness to penetrate the warm cake; applying when cool is less effective
+- The apricot jam glaze provides both shine and subtle fruity sweetness; the final quick oven blast (briefly under 240°C) creates a glossy finish without softening the icing
+
+## Serving
+Serve the cooled lemon cake sliced thin (the moistness supports thin slicing) with afternoon tea, fresh lemon curd, or alongside fresh berries. The bright citrus pairs beautifully with berries. The lemon icing provides both visual elegance and additional flavor.
+
+## Storage
+Baked lemon cakes keep well wrapped at room temperature for 2-3 days; the moisture content keeps them from drying out. Do not refrigerate, as cold temperatures cause the texture to firm up. The cakes freeze beautifully wrapped well for up to one month; thaw at room temperature before serving. Best flavor develops after one day of baking as flavors integrate.
+
 ## Method
 1. Preheat the oven to 190°C.
 1. Grease 2 loaf tins, 12.5 x 5 cm base measurement, about 5 cm deep with butter and line with greaseproof paper.

@@ -18,7 +18,7 @@
 - 800g (174 lb) skinless, boneless chicken breast, cut into thin slices on the diagonal 
 - 125ml red wine (optional) 
 - 100ml (1 cup) single cream 
-- 1 tsp [garam masala](../Base/garam-masala.md)
+- 1 tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - Salt 
 
 ## Method

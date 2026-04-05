@@ -20,7 +20,7 @@
 - 2 Scotch Bonnet chillies (finely chopped)
 - 1 tsp Ground Turmeric
 - 2 Tbsp hot Chilli powder
-- 2 Tbsp [Mixed Powder](../Base/mixed-powder.md)
+- 2 Tbsp [Mixed Powder](../Spice-Mixes/mixed-powder.md)
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 2 tsp sugar
 ### Step 3

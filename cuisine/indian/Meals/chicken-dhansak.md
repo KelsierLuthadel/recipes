@@ -10,7 +10,7 @@
 - 4 tbsp rapeseed oil or seasoned oil
 - 2 tbsp garlic and ginger paste
 - 1 tsp ground turmeric 
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
+- 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 1 tbsp chilli powder, or to taste 
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 800g [pre-cooked stewed chicken](../Base/curry-base.md)

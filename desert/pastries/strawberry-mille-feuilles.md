@@ -14,6 +14,21 @@
 - 50 ml whipping cream
 - 300 grams strawberries (cut into 2 mm slices)
 
+## Overview
+An elegant and refined dessert of crispy caramelized puff pastry layered with vanilla crème anglaise and fresh strawberries. The thin, shatteringly crisp pastry contrasts perfectly with the silky filling and juicy fruit, making this a showstopping presentation suitable for the finest dinner parties or celebrations.
+
+## Notes
+- The puff pastry layers must be baked under weight to prevent puffing; using two baking sheets with spacers ensures even, thin, flat layers essential for this dessert
+- The icing sugar glaze should create a glossy, thin caramel finish; watch carefully during the final glazing step to prevent burning, as the difference between perfection and scorched is mere seconds
+- The crème anglaise must be completely set (4-5 hours or overnight) before assembly; this ensures it pipes to stable peaks without collapsing
+- Cut the layered mille-feuilles with a serrated knife using a gentle sawing motion, not pressure, to avoid crushing the delicate pastry layers
+
+## Serving
+Arrange each mille-feuille on a serving plate to showcase the contrast between the glossy top and the beautiful cross-section of layers. Serve immediately after assembly to maintain the crispness of the pastry. A small spoonful of remaining crème anglaise or a delicate strawberry coulis alongside completes the presentation beautifully.
+
+## Storage
+Baked pastry layers keep well at room temperature for 2-3 days in an airtight container. The crème anglaise filling can be prepared the day before. Assemble the mille-feuilles no more than 2-3 hours before serving, as the pastry will gradually soften from moisture in the filling and berries. Strawberries are best sliced just before assembly to prevent oxidation.
+
 ## Method
 1. Roll out the pastry on a lightly floured surface to a 36 x 12 cm rectangle, 4 mm thick,
 1. Cut into six 12 x 6 cm pieces and lift onto a baking sheet. Refrigerate for 20 minutes.

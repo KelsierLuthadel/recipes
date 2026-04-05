@@ -1,10 +1,13 @@
 # Beef wellington
 
-![Name](resources/beef-wellington.jpg)
+![Beef wellington](resources/beef-wellington.jpg)
 
 *The beef can be wrapped in its pastry crust up to 4 hours in advance and kept in the fridge, ready to bake when you are ready to eat.*
 
 **Serves:** 6
+
+## Overview
+A showstopping dish featuring a rare beef tenderloin encased in layers of mushroom duxelles, spinach, herb crêpes, and a golden, crispy pastry crust. Each slice reveals a beautiful cross-section of perfectly cooked beef, creamy mushroom filling, and elegant layers. This is fine dining on a plate—impressive enough for the most important dinner party.
 
 ## Ingredients
 ### Pastry
@@ -33,7 +36,8 @@
 - béarnaise sauce
 
 ## Method
-### For the pastry
+
+### Stage 1 – Make Pastry Dough
 1. Put the milk and yeast into a bowl and stir to dissolve the yeast.
 1. Put the flour, salt and eggs into an electric mixer fitter with a dough hook and pour in the milk and yeast mixture.
 1. Mix on low speed to combine and knead the dough for 5 minutes.
@@ -47,7 +51,7 @@
 1. Knock the dough back by flipping it over 2 or 3 times with your hand.
 1. Cover the bowl again and refrigerate for several hours (but not more than 24 hours).
 
-### For the beef fillet
+### Stage 2 – Sear & Roast Beef
 1. Preheat the oven to 200°C.
 1. Trim the fillet of any membrane, then season all over with salt and pepper.
 1. Heat the clarified butter in a roasting pan over a medium - high heat and sear the beef for 3 - 4 minutes until golden turning to colour evenly.
@@ -55,17 +59,17 @@
 1. Lift the beef onto a wire rack and leave to cool completely.
 1. At this stage it will be very rare.
 
-### For the mushroom duxelles.
+### Stage 3 – Make Mushroom Duxelles
 1. Heat the 60 grams of butter in a pan over a medium heat.
 1. Add the mushrooms and lemon juice and cook, stirring from time to time, until all the moisture has evaporated.
 1. Add the shallot and cook for another 2 minutes, then pour in the cream and cook, stirring until it is all absorbed.
 1. Season to taste and set aside to cool, then chill.
 
-### For the spinach
+### Stage 4 – Prepare Spinach
 1. Blanch the spinach leaves in boiling salted water for 3 seconds, then drain and refresh in cold water.
 1. Drain well, separate the leaves and pat each one dry with kitchen paper.
 
-### To assemble
+### Stage 5 – Assemble Wellington
 1. Roll out the pastry on a lightly floured surface to a 40 x 25 cm rectangle, 3 - 4 mm thick.
 1. Trim the side to neaten.
 1. Place 2 crêpes along the middle of the rectangle and cover them with 8 spinach leaves.
@@ -80,12 +84,28 @@
 1. Turn the pastry wrapped beef over onto a baking sheet and refrigerate for 30 minutes.
 1. Heat the oven to 200°C.
 
-### To bake
+### Stage 6 – Bake & Serve
 1. Brush the entire surface of the pastry with eggwash and score it with leaf patterns using a knife tip.
 1. Cut a small aperture in the middle of the pastry to allow the steam to escape during cooking.
 1. Bake for 25 minutes if you like the beef rare, or 35 minutes for medium.
 1. If the pastry becomes too brown as it cooks, cover loosely with foil and lower the oven setting to 170°C.
-
-### To serve
 1. Use a palette knife to transfer the cooked beef to a wire rack and leave it to rest for 5 minutes.
-1. Care the beef in its crust into thick slices and serve on warm plates, with a generous spoonful of béarnaise sauce.
+1. Carve the beef in its crust into thick slices and serve on warm plates, with a generous spoonful of béarnaise sauce.
+
+## Notes
+- **Beef selection:** Buy a high-quality, center-cut tenderloin for even cooking and best results.
+- **Dough make-ahead:** The pastry dough can be prepared 1-2 days in advance and refrigerated.
+- **Assembly timing:** Complete assembly up to 4 hours before baking; cover and refrigerate to maintain pastry texture.
+- **Rare is best:** A well-seared, properly timed beef maintains its tenderness and pairs beautifully with the rich filling.
+- **Béarnaise sauce:** Essential accompaniment—made with tarragon-infused butter and egg yolks.
+
+## Serving
+Serve with: Béarnaise sauce, roasted potatoes, seasonal vegetables
+Garnish with: Watercress and truffle shavings (optional for special occasions)
+Wine pairing: Full-bodied red wine (Bordeaux, Burgundy, or Barolo)
+
+## Storage
+- Best served fresh and hot from the oven
+- Cooked Wellington keeps 1-2 days refrigerated (though quality deteriorates)
+- Unbaked assembled Wellington freezes well up to 2 months
+- Not recommended for reheating as pastry becomes soggy

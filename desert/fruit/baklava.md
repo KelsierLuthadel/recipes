@@ -20,6 +20,21 @@
 - 1 cinnamon stick
 - 2 cloves
 
+## Overview
+A Middle Eastern delicacy of honey-soaked, crispy-layered filo pastry studded with pistachios and warm spices, cut into diamonds and served at room temperature. This globally beloved pastry achieves its legendary texture through careful assembly and the crucial overnight soaking that allows the honey syrup to penetrate all layers while maintaining crispness.
+
+## Notes
+- The syrup must be cooled to at least warm (not hot) before pouring over the baked baklava, or it will soften the crisp pastry too quickly
+- Overnight soaking is non-negotiable; this allows the honey to distribute throughout the layers without creating soggy pastry from excess moisture
+- The filo must be brushed generously with melted butter on both sides of each sheet; skimping on butter will result in dry, hard baklava
+- Cutting through all layers while hot helps maintain clean edges; attempting to cut cold baklava results in shattering pastry
+
+## Serving
+Serve at room temperature (never chilled, as the honey crystallizes and becomes gritty) as petit fours with coffee or as a dessert course. The pistachios make this particularly elegant. Display on a decorative platter to showcase the diamond cuts and honey glaze.
+
+## Storage
+Baklava keeps beautifully at room temperature for up to 5-7 days in an airtight container, remaining crisp while the honey flavor matures. The unbaked baklava can be assembled and refrigerated for up to 24 hours before baking. Once baked and honey-soaked, do not refrigerate; cold temperatures cause crystallization and loss of texture. Light reheating in a slow oven (150°C, 5-10 minutes) can refresh the honey glaze if desired.
+
 ## Method
 ### Make the syrup
 1. Put 160 ml of water in a heavy-bases saucepan with the honey, sugar, lime zest and spices.

@@ -21,6 +21,21 @@
 - 1 tablespoon cream
 - icing sugar (to dust)
 
+## Overview
+A rich and airy chocolate soufflé that rises dramatically in the oven, creating a show-stopping dessert with a molten chocolate center. This classic French preparation requires precision timing and technique, but rewards you with an elegant and impressive dessert that looks far more complicated than it actually is.
+
+## Notes
+- Ensure egg whites are completely grease-free for maximum volume when whisking; even a trace of yolk will prevent proper stiffness and result in a flat soufflé
+- The soufflé must go directly into the preheated oven and remain undisturbed during cooking; opening the oven door will cause it to collapse
+- For a molten center, slightly underbake (8 minutes); for a fully set interior, bake the full 10 minutes
+- Use a metal ring mold or ramekin to help the soufflé rise evenly and achieve a professional appearance
+
+## Serving
+Serve immediately from the oven on warm plates. Accompany with the warm chocolate sauce pooled around the soufflé, or serve a separate jug of crème anglaise or whipped cream on the side. A light dusting of icing sugar adds elegance.
+
+## Storage
+Soufflés do not store well as they deflate quickly after baking. Serve immediately after removing from the oven for best presentation and texture. The uncooked mixture can be prepared up to 1 hour in advance and kept covered in the refrigerator.
+
 ## Method
 1. Preheat the oven to 220°C.
 1. Place a glass bowl over a pan of simmering water. Add the chopped chocolate and melt.

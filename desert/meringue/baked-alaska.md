@@ -5,6 +5,29 @@
 *To warm the meringue, you can brown it in a very hot oven at 250°C for a minute, instead of using a cook's blowtorch. This gives a lovely contrast to the frozen ice cream.*
 
 
+# Baked Alaska
+
+![Name](resources/bakedalaska.jpg)
+
+*To warm the meringue, you can brown it in a very hot oven at 250°C for a minute, instead of using a cook's blowtorch. This gives a lovely contrast to the frozen ice cream.*
+
+**Serves:** 8 - 10
+
+## Overview
+A spectacular show-stopping frozen dessert featuring vanilla and coffee ice cream inside a sponge case, completely encased in Italian meringue and briefly torched or baked until golden. This impressive historic dessert creates drama at the table as a frozen filling remains cold while the exterior turns warm and golden.
+
+## Notes
+- The sponge must be completely cooled before hollowing and filling, or the ice cream will melt from contact with residual heat
+- Italian meringue made with hot sugar syrup (121°C) is crucial for food safety and proper texture; it's more stable than French meringue when torched or baked
+- The ice cream must be frozen solid before adding the meringue coating; any soft spots will cause collapse and melting during warming
+- Wrap the filled and coated cake immediately after assembly in cling film to protect it and prevent the meringue from absorbing freezer odors
+
+## Serving
+Trimmed and torched (or baked) baked Alaska should be served immediately while the meringue exterior is warm and golden and the ice cream inside remains frozen. Serve on elegant plates with a warm chocolate or fruit sauce alongside for luxury and celebration. This is a truly showstopping dessert.
+
+## Storage
+The individual components can be prepared ahead: the sponge 1-2 days before, the ice cream made ahead and frozen, the Italian meringue made 2-3 hours ahead and kept at room temperature (do not refrigerate). Assemble, wrap, and freeze for at least 2 hours (or up to overnight). Torch or bake only when ready to serve, as the finished baked Alaska does not hold well after warming.
+
 ## Ingredients
 - 1 vanilla pod (split length-ways)
 - 1 tablespoon instant coffee (dissolved in 1 tablespoon warm water)

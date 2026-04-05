@@ -18,6 +18,21 @@
 - 30 ml kirsch
 - 40 grams lightly toasted flaked almonds
 
+## Overview
+A spectacular semifrozen soufflé made with fresh pineapple purée and Italian meringue, served in its own hollowed-out pineapple shell for dramatic presentation. This elegant dessert combines the airiness of soufflé with the convenience of a frozen dessert, making it perfect for dinner parties as it can be prepared hours in advance.
+
+## Notes
+- The pineapple must be properly blanched and cooled before processing to prevent browning and to develop its full flavor; the poaching syrup becomes a delicious accompaniment
+- When folding the Italian meringue into the pineapple purée, work gently to maintain airiness; use a rubber spatula to cut through the mixture rather than stirring
+- The tissue-paper collar around the soufflé dish creates the classic presentation; oil it lightly to prevent the mixture from sticking
+- Freeze for a minimum of 3 hours; if refrigerating instead, allow 8 hours for proper setting
+
+## Serving
+Remove the paper collar just before serving and fill the cavity with blackberry coulis and poached blackberries. Decorate the top with reserved pineapple pieces and toasted almonds. Serve with remaining blackberry coulis in a separate jug for guests to add as desired.
+
+## Storage
+Once assembled, serve immediately. The unfilled and undecorated frozen soufflé can be stored in the freezer for up to 2 days before final assembly and serving. If made ahead, wrap carefully in plastic film to prevent freezer burn and protect from absorbing other flavors.
+
 ## Method
 ### For the pineapple
 1. Using a serrated knife, cut a 2 cm slice from the base of the pineapple and a 3 cm slice from the top, removing the leafy fronds.

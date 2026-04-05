@@ -15,8 +15,8 @@
 - 2 tbsp garlic and ginger paste
 - 2 tbsp finely chopped coriander stalks
 - 125ml [tomato purée](../Base/tomato-puree.md)
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
-- 2 tbsp [tandoori masala](../Base/tandoori-masala-powder.md)
+- 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
+- 2 tbsp [tandoori masala](../Spice-Mixes/tandoori-masala.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
 - 250ml of curry base or stock from [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)

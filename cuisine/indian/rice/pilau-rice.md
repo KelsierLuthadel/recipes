@@ -1,20 +1,33 @@
 # Pilau Rice
 
+![Pilau Rice](resources/pilau-rice.jpg)
+
+*A fragrant rice perfumed with saffron, cardamom, cinnamon, and cumin. Gentle ghee carries the aromatics into every grain of basmati rice. A 40-minute rest allows the rice to cook perfectly from residual steam.*
+
 **Serves:** 4
 
+## Overview
+This is Indian rice cooking at its most elegant. Whole spices bloom in hot ghee, releasing their essential oils. The rice toasts lightly in this fragrant fat before being simmered gently under a tight lid. A final infusion of saffron-scented milk adds color and subtle flavor. Each grain remains separate and al dente, never mushy.
+
 ## Ingredients
-- 370g (2 cups) basmati rice 
-- 3 tbsp milk 
-- Pinch of saffron threads 
-- 3 tbsp ghee 
+
+### Rice & Saffron
+- 370 grams (2 cups) basmati rice
+- 3 tablespoons whole milk
+- Pinch of saffron threads
+
+### Aromatics & Oil
+- 3 tablespoons ghee
 - 6 green cardamom pods (lightly bruised)
-- 5cm (2in) piece of cinnamon stick or cassia bark 
-- 1 tsp cumin seeds 
+- 5 cm piece of cinnamon stick or cassia bark
+- 1 teaspoon cumin seeds
 - 1 onion (finely chopped)
 - 1 garlic clove (smashed)
-- 750ml (3 cups) cold water or unsalted chicken stock 
 - 2 Indian bay leaves
-- Salt 
+
+### Cooking Liquid
+- 750 ml cold water or unsalted chicken stock
+- Salt to taste 
 
 ## Method
 1. Rinse and soak the rice. 

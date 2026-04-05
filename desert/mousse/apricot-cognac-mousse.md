@@ -18,6 +18,21 @@
 - 40 grams liquid glucose
 - 32 blanched almonds
 
+## Overview
+An elegant and sophisticated mousse showcasing the delicate flavor of ripe apricots enriched with Cognac, crowned with candied almonds that provide a beautiful crunch. This refined dessert balances fruit flavor with alcohol warmth and almond texture, making it a memorable finale to a refined dinner.
+
+## Notes
+- The apricots must be ripe but not overripe; underripe ones will taste tart and lack smoothness, while overripe ones become too soft to hold their shape during poaching
+- Caramel at 155°C gives the right brittleness; use a thermometer as this is between too-soft and too-hard
+- When folding the gelatine mixture into the cream and apricot purée, work gently with a rubber spatula to maintain the airy texture achieved by whipping the cream
+- The reserved fresh apricot halves add both visual beauty and texture; choose the most perfect halves for garnish
+
+## Serving
+Serve in elegant small glasses or coupes, each topped with a perfect fresh apricot half and surrounded by caramelized almond shards. The contrast between the silky mousse, soft fruit, and crisp candy is the essence of this dessert. Serve lightly chilled, not frozen.
+
+## Storage
+Once set (after 4+ hours in the refrigerator), the mousse can be covered and refrigerated for up to 2 days. The caramelized almonds must be stored separately in an airtight container at room temperature (they absorb moisture from the air). Assemble no more than 30 minutes before serving to keep the almonds crisp.
+
 ## Method
 1. Put 750 ml of the sirop a sorbet and the vanilla pod into a medium saucepan and bring to the boil.
 1. Add the apricots and simmer gently for 3 - 5 minutes, depending on the ripeness, then leave the fruit to cool in the syrup.

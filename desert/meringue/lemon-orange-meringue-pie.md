@@ -30,6 +30,21 @@
 - 200 grams golden caster sugar
 - 2 level teaspoons cornflour
 
+## Overview
+A classic British-style meringue pie with a buttery shortbread pastry shell, sharp lemon-orange curd filling, and a towering cap of crisp-edged, soft-centered Italian meringue. This tangy and sweet dessert perfectly showcases the interplay of flavors and textures, from the crumbly pastry through the silky curd to the cloud-like meringue topping.
+
+## Notes
+- The pastry benefits from being made by hand (rubbing in the butter) for the proper flaky texture; food processor preparation can overdevelop gluten
+- Blind baking ensures the pastry base is crisp; baking balls or dried beans prevent puffing and maintain even thickness
+- The lemon and orange juice mixture thickness is crucial; undercooking results in a runny filling, overcooking makes it gelatinous
+- The cornflour in the meringue stabilizes it and adds a pleasant subtle sweetness; it also helps create the characteristic crispy-edged, soft-centered texture
+
+## Serving
+Serve the pie warm or at room temperature, cutting into generous slices. The contrast between the caramelized, crackling meringue exterior and the soft, white interior, combined with the silky filling and crumbly pastry, creates the ultimate sensory experience. Serve with a dollop of whipped cream if desired.
+
+## Storage
+The pastry dough can be made 2-3 days ahead and refrigerated, or frozen for up to 2 weeks. The baked pastry shell can be made the day before and kept in an airtight container at room temperature. The curd filling can be made the day before and refrigerated until assembly. Assemble and serve the same day; the meringue begins to soften and weep after several hours.
+
 ## Method
 ### To make the pastry
 1. Sift the flour onto the work surface and make a well in the centre. 

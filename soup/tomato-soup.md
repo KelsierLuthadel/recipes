@@ -9,31 +9,68 @@ This soup can be served as a vegetarian dish, by removing the bacon and substitu
 
 **Serves:** 6 - 8
 
+**Prep time:** 20 mins
+
+**Cooking time:** 45 mins
+
+## Overview
+This classic tomato soup is rich, comforting, and versatile, made with fresh tomatoes, vegetables, and herbs. It can be served chunky as a stew or blended into a smooth puree, with the option to add cream for extra smoothness. Simple to prepare yet full of flavor, it's perfect for any meal.
+
 ## Ingredients
+
+### Fat
+- 50 ml olive oil
+- 25 grams unsalted butter
+
+### Vegetables
 - 3 onions (chopped)
 - 3 carrots (cut into 5 mm dice)
 - 3 celery sticks (cut into 5 mm dice)
-- 50 ml olive oil
-- 25 grams unsalted butter
+- 900 grams ripe tomatoes
+
+### Aromatics
+- 1 large garlic clove (crushed)
 - small bunch of fresh basil (chopped)
 - small bunch of tarragon (chopped)
 - 1 bay leaf
-- 1 large garlic clove (crushed)
+
+### Protein
 - 6 smoked back bacon rashers (rinded and chopped)
-- 900 grams ripe tomatoes
+
+### Seasonings
 - 750 ml chicken stock
 - salt and freshly ground black pepper
 - 1 tablespoon tomato purée
 
 ## Method
+
+### Stage 1 – Prepare tomatoes
 1. Score a cross in the base of each tomato, and place into a pan of boiling water for 1 minute. Remove and plunge into a bowl of ice cold water, drain and peel away the skins.
+
+### Stage 2 – Cook vegetables
 1. Sweat the onions, carrots and celery in the olive oil and butter for a few minutes.
 1. Add the herbs, bay leaf and garlic and cook for a few more minutes.
 1. Add the bacon and continue to cook for about 5 minutes until the vegetables are slightly softened.
+
+### Stage 3 – Simmer soup
 1. Cut the tomatoes into quarters and then cut each quarter in half. 
 1. Add the tomatoes to the pan, and cover, cooking gently for about 15 minutes, stirring occasionally to help the tomatoes break down.
 1. When the tomatoes have softened, start to add the chicken stock, a ladle at a time, until it forms a looser consistency (The amount of stock added depends on how thick or thin the desired soup needs to be).
 1. Leave the soup to cook for 20 minutes, on a slow, gentle bubble.
 1. Check for seasoning, and add the tomato purée.
 1. Remove the bay leaf.
+
+### Stage 4 – Finish and serve
 1. If making a purée of the soup, allow to cool for a few minutes and add the soup to a blender and purée until it reaches the desired consistency. Add a little cream and return to the pan to heat through.
+
+## Notes
+- **Tomatoes:** Use ripe tomatoes for the best flavor; peeling them helps achieve a smoother texture.
+- **Vegetarian option:** Omit the bacon and use vegetable stock instead of chicken stock.
+- **Cream:** Optional for puree version; adds richness but can be skipped for a lighter soup.
+
+## Serving
+Serve hot with fresh warm bread and topped with croutons.
+
+## Storage
+- Refrigerate up to 3 days.
+- Freezes well up to 2 months; thaw and reheat gently.

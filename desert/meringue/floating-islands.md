@@ -19,6 +19,21 @@
 ### For the caramel
 - 210 grams caster sugar
 
+## Overview
+Classic poached meringues served as "floating islands" atop silky crème anglaise, accompanied by delicately poached rhubarb and a drizzle of caramel for an elegant, intricate presentation. This refined French dessert creates beautiful textural contrast and showcases meringue's delicate, cloud-like quality.
+
+## Notes
+- The milk for poaching must be maintained at exactly 85°C throughout; too hot cooks the meringues too quickly causing them to crack, too cold results in soggy, dense results
+- Creating proper quenelles requires a damp spoon rinsed in cold water between each one; this prevents sticking and ensures clean, elegant shapes
+- Poaching time (2 minutes plus 2 minutes after flipping) is precise for light, airy centers; undercooked meringues are mousse-like and overcooked ones become dry
+- The rhubarb syrup adds tartness to balance the sweetness of meringue and caramel; young, tender rhubarb has the best flavor and color
+
+## Serving
+Divide the crème anglaise among shallow bowls and float a single poached meringue in the center. Arrange the poached rhubarb pieces around the meringue and drizzle caramel decoratively in a thin stream across the top. Serve immediately while temperatures provide maximum contrast.
+
+## Storage
+The meringues can be poached several hours ahead and kept on a clean tea towel, covered with plastic film in a cool location. The crème anglaise and rhubarb compote can be prepared the day before and refrigerated. Reheat the crème anglaise gently before plating. Assemble immediately before serving for best presentation and temperature contrast.
+
 ## Method
 1. Peel the rhubarb, if necessary, then rinse and cut into 5 cm long batons, 2 cm wide.
 1. Place in a dish.

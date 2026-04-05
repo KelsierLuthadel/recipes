@@ -17,14 +17,14 @@
 - 1 tsp coriander seeds (roughly chopped)
 - 3 tbsp garlic and ginger paste
 - 125ml [tomato purée](../Base/tomato-puree.md)
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
+- 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 1 tsp ground cumin 
 - 1-2 tsp mild or hot chilli powder, to taste 
 - 7 tbsp [onion paste made with yoghurt](../Base/fried-onion-paste.md)
 - 1 tsp dried fenugreek leaves 
 - Small bunch of coriander (chopped)
 - 2 handfuls of [fried onions](../Base/fried-onion-paste.md)
-- 1 tsp [garam masala](../Base/garam-masala.md)
+- 1 tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - Salt 
 
 ## Method

@@ -4,7 +4,10 @@
 
 *Crème Chantilly is used to lighten and enrich numerous creams - the Crème pâtissière in an Alméria for example. It can also be served just as it is and will complement many desserts, fruits or ice creams.*
 
-**Yield:** 600 grams
+**Serves:** 600 grams
+
+## Overview
+Crème Chantilly, or whipped cream, is a classic component that adds lightness and elegance to virtually any dessert. Whether served plain with fresh fruit or incorporated into other creams, its airy texture and subtle sweetness enhance both simple and sophisticated preparations. Flavor variations such as chocolate or coffee versions expand its versatility in the pastry kitchen.
 
 ## Ingredients
 ### For all the creams
@@ -35,3 +38,15 @@
 ### Coffee Chantilly
 1. Dissolve the coffee in the hot milk, and allow to cool. 
 1. Add it when you beat the cream.
+
+## Notes
+- All equipment must be well chilled, including the mixer bowl and beaters, to achieve maximum volume when whipping
+- Whip at medium speed initially, then increase to high speed once the cream begins to thicken; avoid over-beating which turns cream to butter
+- The target consistency is slightly firmer than ribbon stage—the cream should hold soft peaks
+- Dairy cream with higher fat content (at least 35%) produces the most stable whipped cream
+
+## Serving
+Serve crème Chantilly chilled alongside fresh fruit compotes, warm desserts, or alone with fresh berries. Use as a filling between cake layers, a topping for warm desserts, or part of more complex cream preparations. Chocolate and coffee variations pair beautifully with both light and rich desserts.
+
+## Storage
+Whipped crème Chantilly is best served immediately after preparation. Refrigerate for up to 24 hours; the cream will gradually separate slightly. If separation occurs, gently re-whip for 30 seconds. For longer storage (up to 2 days), cover the surface with plastic wrap to prevent skin formation and protect flavor from absorbing other odors.

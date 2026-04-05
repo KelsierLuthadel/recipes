@@ -21,7 +21,7 @@
 - 100ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
 - 2 tomatoes, quartered 
 - 1 tsp dried fenugreek leaves 
-- 1 tsp [garam masala](../Base/garam-masala.md)
+- 1 tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - Salt 
 - Fresh coriander leaves (chopped)
 - Green finger chillies, cut in half lengthways 

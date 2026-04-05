@@ -14,8 +14,8 @@
 - 2 tbsp garlic and ginger paste 
 - 3 (or more) fresh green chillies, sliced into thin rings, plus extra to serve
 - 1 tsp chilli powder 
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
-- 2 tbsp [tandoori masala ](../Base/tandoori-masala-powder.md)
+- 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
+- 2 tbsp [tandoori masala ](../Spice-Mixes/tandoori-masala.md)
 - 125ml [tomato purée ](../Base/tomato-puree.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)

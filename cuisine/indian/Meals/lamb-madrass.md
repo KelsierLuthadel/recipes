@@ -17,13 +17,13 @@
 - 1 tsp ground coriander 
 - 1/4, tsp ground turmeric 
 - 1-2 tbsp chilli powder
-- 2 tbsp [mixed powder](../Base/mixed-powder.md)
+- 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
 - 250ml of curry base or stock from [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
 - 1-2 tbsp smooth mango chutney
 - Juice of 1 lime 
-- Pinch of [garam masala](../Base/garam-masala.md)
+- Pinch of [garam masala](../Spice-Mixes/garam-masala.md)
 - Fresh coriander to garnish 
 - Salt 
 

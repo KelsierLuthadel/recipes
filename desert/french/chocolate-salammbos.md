@@ -13,6 +13,21 @@
 - 500 grams chocolate crème pâtissière
 - 200 ml [crème chantilly](../../baking/cremes/creme-chantilly.md)
 
+## Overview
+Elegan pear-shaped chocolate cream-filled choux buns, topped with a caramel coating and candied violets for ornament. These show-stopping petits fours combine the delicate sweetness of choux, rich chocolate cream, and brittle caramel, making them perfect for elegant receptions and special occasions.
+
+## Notes
+- Pear-shaped choux requires practice and control; pipe a wider base tapering to a point, holding the piping bag at a 45-degree angle
+- The caramel must reach exactly 160°C for the right crispness; too cool becomes sticky and too hot becomes hard and bitter
+- Work quickly when dipping in caramel and placing the violet; the caramel sets rapidly and any hesitation results in clumsy appearance
+- Crystallized violets are delicate and can dissolve in moisture; handle gently and place them immediately before the caramel fully sets
+
+## Serving
+Arrange the salammbos on a decorative plate or tiered stand to showcase their elegant shape and violet garnish. Serve at room temperature as part of petit fours or a dessert buffet. The contrast between the crisp caramel exterior, creamy filling, and gently sweetened choux is the appeal.
+
+## Storage
+The baked choux can be made 1-2 days ahead and kept in an airtight container at room temperature. Assemble by filling and dipping in caramel no more than 2-3 hours before serving; beyond that, the caramel coating gradually absorbs moisture from air and becomes sticky rather than crisp. The candied violets must be added fresh just before serving.
+
 ## Method
 ### Make the salammbos
 1. Preheat the oven to 180°C.

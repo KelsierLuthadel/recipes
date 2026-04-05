@@ -1,10 +1,13 @@
 # Pecan nut brownies
 
-![Name](resources/brownie.jpg)
+![Pecan nut brownies](resources/brownie.jpg)
 
 *These brownies marry especially well with crème anglaise or a spoonful of crème fraîche.*
 
-**Yield:** 16 
+**Serves:** 16 
+
+## Overview
+Rich, fudgy chocolate brownies studded with toasted pecan nuts. These brownies have a dense, moist interior with just-set edges—the perfect balance of chocolate intensity and nutty richness. Elegant enough for entertaining yet comforting enough for everyday indulgence, especially paired with crème anglaise or fresh whipped cream. 
 
 ## Ingredients
 - 200 grams butter (cut into small pieces)
@@ -29,3 +32,20 @@
 1. Set aside to cool in the tin.
 1. Once cooled, lift out the brownie, using the lining paper.
 1. Cut into squares or smaller pieces and serve in an artful heap.
+
+## Notes
+- **Chocolate quality:** Use high-quality 70% cocoa solids chocolate—cheaper chocolate produces dull, grainy results.
+- **Egg beating:** The 6-minute ribbon stage is essential for incorporating air that creates the fudgy texture.
+- **Don't overmix:** Fold ingredients gently with a spatula to maintain airiness—overmixing creates tough, dense brownies.
+- **Doneness test:** The skewer should come out clean but with a slight sheen from melted chocolate. Overbaking dries them out.
+
+## Serving
+Serve with: Crème anglaise, whipped cream, vanilla ice cream, or fresh berries
+Presentation: Dust with icing sugar or cocoa powder, or garnish with gold leaf for elegance
+Temperature: Room temperature or slightly warmed
+
+## Storage
+- Keeps 4-5 days in an airtight container at room temperature
+- Freezes well up to 2 months (freeze cut pieces in layers separated by parchment)
+- Texture improves and mellows after 1-2 days as flavors develop
+- Cannot be properly reheated; serve at room temperature or chilled

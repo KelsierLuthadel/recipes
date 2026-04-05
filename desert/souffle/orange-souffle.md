@@ -21,6 +21,21 @@
 ### To serve
 - 4 large oranges (shell only)
 
+## Overview
+A vibrant and fragrant orange soufflé with Grand Marnier, baked and served in its own hollowed orange shell for a striking table presentation. This classic French dessert showcases the bright flavor of fresh orange juice combined with a light, airy soufflé base that rises beautifully in the oven.
+
+## Notes
+- Reduce the fresh orange juice to concentrate its flavor and prevent excess moisture that would prevent proper rising; this concentration step is crucial
+- The orange zest should be very finely grated to distribute flavor evenly and avoid any bitter white pith
+- Use a clean, grease-free bowl and whisk for the egg whites; create soft peaks before gradually adding sugar while whisking continuously
+- Make a light circular cut around the inside rim of each dish with a knife blade before baking to help the soufflé achieve its characteristic mushroom-top shape
+
+## Serving
+Serve each soufflé directly from its ramekin or dish, placed on a plate lined with a napkin for elegance. For the signature presentation, serve the soufflé scooped into the hollowed orange shell immediately before the table. Dustwith icing sugar just before serving.
+
+## Storage
+Soufflés do not store after baking as they deflate within minutes of removal from the oven. Serve immediately for best appearance and texture. The prepared crème patissière base can be made 2-3 hours ahead and stored covered in the refrigerator, then bring to room temperature before folding in egg whites.
+
 ## Method
 1. Brush 4 ramekins or small soufflé dishes, about 8 cm diameter and 6 cm high with the butter.
 1. Put the 40 grams of caster sugar in one of the buttered dishes and rotate it at an angle so that the sugar coats the inside entirely, then tip the excess into the next dish, tapping as you do so.

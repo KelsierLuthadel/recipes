@@ -22,6 +22,21 @@
 - 2 kiwi fruit (peeled and finely sliced)
 - 3 passion fruit (pulp and seeds scooped out)
 
+## Overview
+An elegant and aromatic soufflé combining tropical passion fruit and kiwi in individual dishes, topped with fresh fruit for a striking presentation. The tart passion fruit and sweet kiwi create a perfectly balanced flavor that rises beautifully and impresses dinner guests with its show-stopping appearance.
+
+## Notes
+- When processing kiwi fruit, pulse briefly to avoid crushing the seeds, which will become bitter if broken; extract the juice through a sieve without pressing hard
+- The passion fruit seeds add beautiful visual appeal and textural contrast; prepare these just before serving to prevent them from becoming overly soft
+- Ensure the crème patissière has cooled to 40-50°C before folding in the whisked egg whites, as overly hot mixture will collapse them
+- Run a knife blade around the inside rim of each soufflé dish before baking to help achieve the characteristic rise and shape
+
+## Serving
+Serve immediately upon removal from the oven on individual plates lined with small napkins. Top each warm soufflé with a thin slice of kiwi and a spoonful of passion fruit pulp and seeds while the soufflé is still puffed. Serve with lime crème anglaise or a light passion fruit coulis on the side.
+
+## Storage
+Soufflés must be served immediately from the oven as they deflate within a few minutes. The crème patissière base can be prepared 2-3 hours ahead and stored covered in the refrigerator. The kiwi and passion fruit components should be prepared just before assembly to maintain their fresh appearance and flavor.
+
 ## Method
 1. Brush the insides of 10 individual soufflé dishes, about 10 cm in diameter and 6 cm high, with the softened butter.
 1. Add the 70 grams of caster sugar to one of the buttered moulds, and rotate it at an angle so that the sugar coats the entire inside of the mould.

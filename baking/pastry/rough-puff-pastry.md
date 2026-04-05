@@ -4,6 +4,9 @@
 
 **Serves:** 1.2kg
 
+## Overview
+Rough puff pastry is a simplified laminated dough that mimics the structure of true puff pastry with fewer folds and a quicker method. The distinct butter pieces visible in the dough create flaky layers when baked, though less voluminous than traditional puff pastry. This pastry offers an excellent balance of ease and results, making it ideal for both experienced pastry chefs and home bakers.
+
 ## Ingredients
 - 500 grams plain flour
 - 500 grams butter (very cold, cut into small cubes)
@@ -28,3 +31,15 @@
 1. Give the chilled pastry another 2 turns, rolling and folding as before.
 1. This makes a total for 4 turns, and the pastry is now ready.
 1. Wrap it in cling film and refrigerate for at least 30 minutes before using.
+
+## Notes
+- Rough puff requires 4 turns total; fewer turns result in less impressive puffing, while more turns risk toughening the dough
+- Keep all ingredients, tools, and work surfaces cool; warm conditions cause butter to soften and incorporate into the dough
+- Fold into thirds (not halves like croissant dough) to create the proper layer structure
+- Quarter-turn after each fold ensures even pressure distribution across the dough
+
+## Serving
+Use rough puff pastry for vol-au-vents, fruit and cream tarts, strips topped with savory fillings, or sweet configurations with fruit. The pastry's flaky texture makes it ideal for both casual and elegant presentations. Brush with eggwash for golden color before baking.
+
+## Storage
+Dough can be refrigerated for 2 days wrapped tightly, or frozen for up to 1 month. Shapes can be cut and frozen before baking; bake directly from frozen, adding 5 minutes to baking time. Baked pastry stores in an airtight container for 1-2 days; refresh briefly in a warm oven to re-crisp before serving.

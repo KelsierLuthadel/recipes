@@ -4,7 +4,10 @@
 
 *The dough for this needs to be made 10-12 hours in advance.*
 
-**Yield:** 16
+**Serves:** 16
+
+## Overview
+Croissant dough is a laminated dough that requires patience and precise technique to achieve its characteristic flaky layers. The interplay between enriched dough and butter layers, combined with careful folding and resting, creates the golden, buttery texture that defines a perfect croissant. This dough demands attention to temperature control and timing throughout its preparation.
 
 ## Ingredients
 - 40 grams sugar
@@ -51,3 +54,15 @@
 1. As soon as they are shaped, place the croissants on a baking sheet, turning in the corners in the direction of the pointed end to make curved crescent shapes. Since the sides of the oven are always the hottest, the last row of croissants must face backwards or the points may dry out and burn.
 1. Lightly, brush the croissants with eggwash, working outwards, so that the layers of dough do not stick together, which would prevent the croissants from rising properly. 
 1. Leave to rise in a very warm, humid and draught free place (24°-30°C) until they have doubled in size. This will take about 2 hours.
+
+## Notes
+- Dough temperature is critical throughout; keep all surfaces, tools, and ingredients cool to prevent butter from melting into the dough
+- The 6-8 hour cold rest allows gluten to relax and prevents the dough from shrinking during lamination
+- Each turn (fold) doubles the number of butter layers; 3 turns create approximately 27 layers of butter and dough
+- Temperature management during final proofing is essential; croissants must be shaped while cold and proof in a warm, humid environment
+
+## Serving
+Serve freshly baked croissants warm, ideally within 2 hours of baking. Enjoy plain with butter and jam, or use as a base for sandwiches with ham, cheese, or chocolate. Can be served for breakfast, brunch, or as an afternoon tea pastry.
+
+## Storage
+Croissants are best consumed fresh on the day of baking. Unfolded dough can be frozen for up to 1 month before shaping; thaw in the refrigerator overnight before final proofing. Shaped, unbaked croissants can be frozen for 2-3 days; bake directly from frozen, adding 5 minutes to baking time.

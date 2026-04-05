@@ -51,6 +51,10 @@ Classic French soup with caramelized onions, rich broth, and cheesy bread toppin
 1. Serve immediately.
 
 ## Notes
+- **Onions:** Caramelize slowly for sweetness; don't rush.
+- **Stock:** Use beef for richness; vegetable for vegetarian.
+- **Bread:** Stale bread works best for toasting.
+- **Cheese:** Gruyère melts beautifully; grate fresh.
 
 ## Serving
 - Serve hot with toasted bread and melted cheese.

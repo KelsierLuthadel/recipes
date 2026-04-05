@@ -55,6 +55,10 @@ This dish works best with raw beef that has been sliced paper thin, as it cooks 
 1. Put the remaining chillies, mint, coriander, lime quarters and fish sauce in small bowls on a platter and serve with the soup.
 
 ## Notes
+- **Beef:** Freeze briefly for easy thin slicing; it cooks instantly in hot broth.
+- **Broth:** Simmer gently to extract maximum flavor from spices.
+- **Noodles:** Soak in hot water; avoid boiling to prevent mushiness.
+- **Herbs:** Add fresh herbs at serving for vibrant flavor.
 
 ## Serving
 - Serve hot with accompaniments.

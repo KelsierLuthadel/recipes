@@ -6,33 +6,65 @@
 
 **Serves:** 4
 
+**Prep time:** 15 mins
+
+**Cooking time:** 50 mins
+
+## Overview
+A delicate yet flavorful soup pairing the subtle anise notes of fennel with vibrant spinach, pureed to a smooth consistency and enriched with cream. The fresh green color and bright flavors make it a refreshing choice.
+
 ## Ingredients
+
+### Base
 - 60 grams unsalted butter
-- 2 small onions
-- 2 small fennel bulbs
-- 1 small potato
-- 1.75 litres of water
-- 700 grams spinach
+
+### Aromatics
+- 2 small onions (very finely chopped)
+- 2 small fennel bulbs (very finely chopped)
+
+### Vegetables
+- 1 small potato (peeled and chopped)
+- 700 grams spinach (stalks removed, leaves washed)
+
+### Liquid/Broth
+- 1.75 litres water
+
+### Garnishes
 - 4 tablespoons double cream
 - salt and pepper to taste
 
 ## Method
-### Preparation
+
+### Stage 1 – Prepare ingredients
 1. Very finely chop the onions.
-1. Very finely chop the fennel bulbs.
-1. Peel and chop the potato.
-1. Wash the potato in water until all the starch has been removed.
-1. Remove any excess stalk from the spinach, leaving only the leaves.
-1. Plunge the spinach in cold water until perfectly clean.
+2. Very finely chop the fennel bulbs.
+3. Peel and chop the potato.
+4. Wash the potato in water until all the starch has been removed.
+5. Remove any excess stalk from the spinach, leaving only the leaves.
+6. Plunge the spinach in cold water until perfectly clean.
 
-### Making the soup
+### Stage 2 – Cook soup
 1. Melt the butter in a large casserole pot.
-1. Over a low heat, fry the onion and fennel together very gently for about half an hour.
-1. Add the potato to the pot, along with the water.
-1. Simmer for about 20 minutes until the potato has been thoroughly cooked.
-1. Stir the spinach into the soup and remove from the heat.
+2. Over a low heat, fry the onion and fennel together very gently for about half an hour.
+3. Add the potato to the pot, along with the water.
+4. Simmer for about 20 minutes until the potato has been thoroughly cooked.
+5. Stir the spinach into the soup and remove from the heat.
 
-### Bringing the soup to the table.
+### Stage 3 – Puree and finish
 1. Liquidize the soup in small batches until very smooth.
-1. For a perfectly fine soup, push the soup through a fine meshed sieve or chinois.
-1. Add a little cream to the soup, reheat gently and serve.
+2. For a perfectly fine soup, push the soup through a fine meshed sieve or chinois.
+3. Add a little cream to the soup, reheat gently and serve.
+
+## Notes
+- **Fennel:** Finely chop to release flavor without bitterness.
+- **Spinach:** Add at end to preserve color and nutrients.
+- **Pureeing:** Strain for ultra-smooth texture.
+- **Cream:** Stir in just before serving to maintain vibrancy.
+
+## Serving
+Serve hot with fresh bread and butter. Garnish with extra cream if desired.
+
+## Storage
+- Refrigerate up to 2 days; reheat gently without boiling.
+- Freezes well for up to 1 month (without cream; add fresh).
+- Best eaten fresh for color.

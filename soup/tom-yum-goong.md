@@ -8,8 +8,8 @@
 - 1 tablespoon oil
 - 500 grams prawns (whole)
 - 2 tablespoons tom yum paste
-- 2 tablespoons taramind purée
-- 2 tablespoons ground tumeric
+- 2 tablespoons tamarind purée
+- 2 tablespoons ground turmeric
 - 1 teaspoon chopped red chillies
 - 4 lime leaves (shredded)
 - 2 tablespoons fish sauce
@@ -24,7 +24,7 @@
 1. Bring to the boil and cook for 5 minutes, or until reduced slightly.
 1. Add another 2 litres of water and simmer for 20 minutes.
 1. Strain back into the same pan through a chinois or fine-meshed conical sieve, discarding the shells and heads.
-1. Add the taramind, tumeric, chillies and lime leaves to the saucepan.
+1. Add the tamarind, turmeric, chillies and lime leaves to the saucepan.
 1. Bring to the boil and cook for 2 minutes.
 1. Add the prawns and cook for 5 minutes, or until they turn pink,
 1. Stir in the fish sauce, lime juice and sugar.

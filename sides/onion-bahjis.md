@@ -9,7 +9,7 @@
 ## Ingredients
 - 250 grams gram flour
 - 1 teaspoon chilli powder
-- 1 teaspoon ground tumeric
+- 1 teaspoon ground turmeric
 - 1 teaspoon coriander seeds (crushed)
 - 3 large onions (sliced)
 - 6 fresh curry leaves
@@ -17,8 +17,8 @@
 - salt
 
 ## Method
-1. Combine the gram flour, chilli powder, tumeric, coriander seeds and a pinch of salt in a bowl.
-1. Gradually add enough water to make a tick batter which will hold the onion together.
+1. Combine the gram flour, chilli powder, turmeric, coriander seeds and a pinch of salt in a bowl.
+1. Gradually add enough water to make a thick batter which will hold the onion together.
 1. Mix the onions and curry leaves into the batter.
 1. Fill a heavy-based saucepan one-third full with sunflower oil and heat to 180°C.
 1. Take two spoonfuls of the onion batter and carefully lower them into the hot oil in batches.

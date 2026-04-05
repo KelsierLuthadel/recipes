@@ -10,7 +10,7 @@
 - 1 garlic clove (crushed)
 - 1 cm piece root ginger (peeled and finely chopped)
 - 1 red chilli (de-seeded and chopped)
-- ¼ teaspoon ground tumeric
+- ¼ teaspoon ground turmeric
 - 1 teaspoon sugar
 - ½ teaspoon salt
 - 1 teaspoon chilli sauce
@@ -23,7 +23,7 @@
 
 ## Method
 1. Put the crushed garlic, ginger and chilli in a food processor.
-1. Add the tumeric and process to a paste.
+1. Add the turmeric and process to a paste.
 1. Add the sugar, salt, chilli sauce, soy sauce, coriander and lime juice.
 1. Process briefly to mix.
 1. Add three-quarters of the cooked rice to the paste in the food processor, and process until smooth and sticky.

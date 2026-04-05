@@ -12,13 +12,13 @@
 - 1 fresh green chilli (de-seeded and chopped)
 - half an onion (very finely chopped)
 - 1 tablespoon coriander (freshly chopped)
-- half a teaspoon of ground tumeric
+- half a teaspoon of ground turmeric
 - half a teaspoon of salt
 - 3 tablespoons melted butter
 - 120 ml lukewarm water (and extra 30 ml may be required if the dough is too firm)
 
 ## Method
-1. Mix the flours, chopped chilli, onion and coriander with the ground tumeric and salt in a large bowl.
+1. Mix the flours, chopped chilli, onion and coriander with the ground turmeric and salt in a large bowl.
 1. Stir in 1 tablespoon of the melted butter.
 1. Mix in enough water to make a pliable, soft dough.
 1. Place the dough on a lightly floured surface and knead it until smooth, then place in a lightly oiled bowl, cover with cling film and leave to rest for 1 hour.

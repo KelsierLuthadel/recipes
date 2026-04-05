@@ -34,7 +34,7 @@ This Anglo-Indian mulligatawny soup blends curry spices with vegetables in a smo
 - half a teaspoon fresh thyme (chopped finely)
 
 ### Seasonings
-- 1 teaspoon ground tumeric
+- 1 teaspoon ground turmeric
 - 1 teaspoon cayenne pepper
 - 1 teaspoon paprika
 - quarter teaspoon chilli flakes

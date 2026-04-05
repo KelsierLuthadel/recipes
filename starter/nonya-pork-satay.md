@@ -18,7 +18,7 @@ Indonesian-style pork satay featuring tender, spiced meat on bamboo skewers with
 - 6 blanched almonds
 - 2 onions (very finely chopped)
 - 4 fresh red chillies (de-seeded and very finely chopped)
-- half a teaspoon ground tumeric
+- half a teaspoon ground turmeric
 - 300 ml coconut milk
 - 2 tablespoon peanut oil
 - salt

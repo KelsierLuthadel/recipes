@@ -34,7 +34,7 @@
 1. Reduce the heat to medium-high and pour in the rest of the oil. 
 1. When bubbles start to appear, add the whole spices. Stir the spices around in the oil for about 30 seconds and enjoy the aroma of that awesome meal you’re making. 
 1. Stir in the garlic and ginger paste and let it sizzle until fragrant then add the mixed powder, ground cumin, chilli powder and tomato purée. 
-1. Give this all a good stir and then add 250mlof the base curry sauce. 
+1. Give this all a good stir and then add 250 ml of the base curry sauce. 
 1. The curry sauce will begin to bubble rapidly and, when it does, add the rest of the sauce and the stock or extra sauce. 
 1. Turn up the heat and simmer; some of the sauce may begin to caramelize on the side of the pan, so just stir this in from time to time for more flavour. 
 1. Add the chicken pieces and simmer, without stirring, for about 2 minutes, until the chicken is warmed through. 

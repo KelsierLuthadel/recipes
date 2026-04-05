@@ -53,7 +53,7 @@ The choux balls can be baked 2-3 days ahead and stored in an airtight container 
 ### To make the choux balls
 1. Put the choux pastry into a piping bag fitted with a 5 - 7 cm plain nozzle.
 1. Pipe into balls about 1 cm in diameter onto a buttered baking sheet; you will need 48 in total (plus one for testing if they are cooked)
-1. Brush them with the egg glaze and bake in the pre-heated oven fro 10 minutes, until dry and crisp, but still soft inside.
+1. Brush them with the egg glaze and bake in the pre-heated oven for 10 minutes, until dry and crisp, but still soft inside.
 1. If necessary, switch off the oven and leave the choux balls inside for a few minutes, to dry them out.
 1. Transfer them to a wire rack.
 1. Once they have cooled completely, make a little hole with a knife in the base of each choux ball.

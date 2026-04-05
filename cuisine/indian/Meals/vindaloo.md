@@ -29,7 +29,7 @@
 ### Step 4
 - 2 Tbsp white wine vinegar
 - 1 tsp Dried Fenugreek leaves
-- 2 pre-cooked stewed potatoes (quatered)
+- 2 pre-cooked stewed potatoes (quartered)
 - 3 Tbsp Chopped Coriander
 - Salt and freshly ground black papper
 

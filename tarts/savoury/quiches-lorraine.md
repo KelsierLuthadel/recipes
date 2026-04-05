@@ -1,4 +1,4 @@
-# Quiches lorraine
+# Quiches Lorraine
 
 ![Quiches lorraine](resources/quiche-lorraine.jpg)
 
@@ -6,15 +6,25 @@
 
 **Serves:** 6
 
+**Prep time:** 20 mins
+
+**Cooking time:** 35 mins
+
+## Overview
+Classic French quiches featuring a silky, custardy filling enriched with cream and Gruyère cheese, studded with crispy lardons, set in individual pastry cases. The balance of salty pork, rich cheese, and delicate egg custard creates an iconic tart that works beautifully warm or at room temperature. Perfect as a light lunch or elegant starter.
+
 ## Ingredients
-- 375 grams [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
-- 140 grams lardons
+### Pastry
+- 375 g [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+
+### Filling
+- 140 g lardons
+- 140 g Gruyère or Comté (freshly grated)
 - 1 egg
 - 3 egg yolks
 - 300 ml double cream
-- pinch freshly grated nutmeg
-- salt and freshly ground pepper
-- 140 grams Gruyère or Comté (freshly grated)
+- Pinch freshly grated nutmeg
+- Salt and freshly ground pepper
 
 ## Method
 ### Making the flan cases
@@ -39,3 +49,17 @@
 ### Baking the quiches
 1. Put the pastry cases, still in their tins into the oven and bake for 15 minutes.
 1. Leave to cool slightly then unmould the quiches onto a wire rack, then transfer to individual plates and serve.
+
+## Notes
+- **Lardon quality:** Thick-cut French lardons provide better texture than thin bacon; they should crisp when roasted.
+- **Egg custody:** Do not overbake; the filling should be just set but still slightly creamy in the centre.
+- **Cheese selection:** Gruyère and Comté are traditional; both melt beautifully and add nutty complexity.
+- **Blind baking:** Essential to prevent soggy pastry; paper and beans ensure even cooking.
+
+## Serving
+Serve warm or at room temperature with a frisée salad tossed with garlic croûtons and vinaigrette. Pairs well with crisp white wine.
+
+## Storage
+- Keeps refrigerated for 2 days in an airtight container; reheat gently in a warm oven.
+- Best eaten warm; flavour and texture degrade significantly when cold from the fridge.
+- Do not freeze; custard-based fillings do not refreeze well.

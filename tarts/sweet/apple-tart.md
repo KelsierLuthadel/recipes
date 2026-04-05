@@ -5,12 +5,25 @@
 *This tart is truly delicious if it is eaten barely cool from the oven. Serve this with a quenelle of extra thick or clotted cream.*
 
 **Serves:** 8
+**Prep time:** 30 minutes
+**Cooking time:** 55 minutes
+
+## Overview
+This apple tart features a buttery sweet shortcrust pastry filled with a vanilla-scented apple compote and topped with delicately arranged baked apple slices. It is best served barely cool with a spoonful of cream or crème fraîche to complement the caramelised fruit.
 
 ## Ingredients
+### Pastry
 - 300 grams [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+
+### Apple compote
 - 6 dessert apples (preferably Cox's)
 - 1 vanilla pod (split length ways)
 - 60 grams butter
+- 80 grams caster sugar
+- 50 ml water
+
+### Glaze
+- 40 ml water
 - 80 grams caster sugar
 
 ## Method
@@ -43,6 +56,18 @@
 
 ### To glaze the tart
 1. Leave the tart to cool for at least 20 minutes before removing the flan ring or tart tin.
-1. Brush the top of the tart with the glaze.
-1. Place the tart on a wire rack and leave until just cooled.
-1. Transfer to a plate and serve cut into slices.
+2. Brush the top of the tart with the glaze.
+3. Place the tart on a wire rack and leave until just cooled.
+4. Transfer to a plate and serve cut into slices.
+
+## Notes
+- Use firm dessert apples like Cox's and slice them thinly for even baking.
+- Chill the pastry before blind baking to prevent shrinkage and ensure a crisp shell.
+- The glaze brings shine and sweetness, so apply it while the tart is warm but not hot.
+- If the tart is prepared ahead, assemble and glaze just before serving for the best texture.
+
+## Serving
+Serve the tart barely cool with clotted cream, crème fraîche, or vanilla ice cream. It is lovely as a dessert or an afternoon treat with tea.
+
+## Storage
+Keep leftover tart in the refrigerator for up to 2 days in an airtight container. Reheat gently in a low oven before serving; avoid prolonged storage as the pastry will soften.

@@ -1,4 +1,4 @@
-# Semi-confit cherry tomato tart
+# Semi-Confit Cherry Tomato Tart
 
 ![Semi-confit cherry tomato tart](resources/confit-tomato.jpg)
 
@@ -6,13 +6,25 @@
 
 **Serves:** 6
 
+**Prep time:** 15 mins
+
+**Cooking time:** 75 mins
+
+## Overview
+A rustic yet sophisticated tart featuring slowly roasted cherry tomatoes with fragrant basil and garlic on a crisp pastry base. The semi-confit technique concentrates tomato sweetness while preserving brightness. A summer-perfect vegetarian tart celebrating tomatoes at their peak.
+
 ## Ingredients
-- 260 grams [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
-- 4 tablespoons white rice
-- salt and freshly ground pepper
-- 3 tablespoons strong Dijon mustard
-- 2 tablespoons double cream (lightly whipped)
-- 500 grams semi-confit cherry tomatoes
+### Pastry
+- 260 g [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+
+### Base
+- 4 tbsp white rice
+- 3 tbsp strong Dijon mustard
+- 2 tbsp double cream (lightly whipped)
+- Salt and freshly ground pepper
+
+### Topping
+- 500 g semi-confit cherry tomatoes
 - 6 basil leaves (snipped)
 
 ## Method
@@ -34,3 +46,17 @@
 1. Season and spread the rice mixture in the pastry case.
 1. Arrange the cherry tomatoes on the rice, placing those still with stalks in the centre.
 1. Scatter over the snipped basil and serve at room temperature.
+
+## Notes
+- **Semi-confit tomatoes:** Slowly cooked at low temperature preserves bright flavour while concentrating sweetness; this differs from fully confit preparations.
+- **Rice layer:** Absorbs moisture from tomatoes, preventing a soggy pastry base.
+- **Dijon mustard:** Strong version provides foundation flavour; balance carefully against tomato sweetness.
+- **Room temperature serving:** Essential for full flavour; cold temperatures mute tomato taste and basil aromatics.
+
+## Serving
+Serve at room temperature as a vegetarian main course or elegant side dish. Pairs beautifully with fresh chèvre or mozzarella and a crisp saüvignon blanc.
+
+## Storage
+- Best eaten the day of serving; do not refrigerate as cold temperatures diminish flavour significantly.
+- Leftovers keep 1 day at room temperature, covered.
+- Do not freeze; the texture and fresh flavour will be compromised.

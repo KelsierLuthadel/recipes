@@ -7,12 +7,22 @@
 *Assemble the tart just before serving to enjoy it at its best.*
 
 **Serves:** 6
+**Prep time:** 30 minutes
+**Cooking time:** 40 minutes
+
+## Overview
+This strawberry tart features a crisp sweet shortcrust shell filled with a light blend of crème pâtissière and crème chantilly, topped with fragrant ripe strawberries. Assemble it just before serving so the pastry remains crisp and the fruit stays bright.
 
 ## Ingredients
+### Pastry
 - 250 grams [Sweet shortcrust pastry](../../baking/pastry/sweet-short-pastry.md)
-- 750 grams very ripe fragrant strawberries
+
+### Filling
 - 300 grams [crème chantilly ](../../baking/cremes/creme-chantilly.md)
 - 150 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
+
+### Topping
+- 750 grams very ripe fragrant strawberries
 - a few mint sprigs
 - icing sugar (to dust)
 
@@ -36,3 +46,15 @@
 
 ### Serving
 1. Slide the tart onto a serving plate, decorate with mint sprigs and dust lightly with icing sugar to serve.
+
+## Notes
+- Blind bake and cool the pastry case fully before filling to keep the base crisp.
+- Fold the crème chantilly gently into the crème pâtissière so the filling remains light.
+- Use the ripest strawberries you can find and assemble just before serving.
+- Dusting with icing sugar adds a pretty finish and balances the fruit sweetness.
+
+## Serving
+Serve the tart immediately after assembly at room temperature. It is perfect with a spoonful of crème fraîche or a simple fruit coulis.
+
+## Storage
+Store any leftover tart in the refrigerator for up to 1 day, covered lightly to avoid crushing the fruit. Because the pastry softens quickly, this tart is best eaten the same day.

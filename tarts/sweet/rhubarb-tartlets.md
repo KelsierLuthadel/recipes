@@ -7,9 +7,17 @@
 *Don't fill the tartlet cases too soon before serving, or the syrup will soften the pastry.*
 
 **Serves:** 6
+**Prep time:** 30 minutes
+**Cooking time:** 25 minutes
+
+## Overview
+These rhubarb tartlets feature sweet shortcrust cases filled with crème pâtissière and glazed orange-poached rhubarb. They are best assembled just before serving so the pastry stays crisp and the filling remains fresh.
 
 ## Ingredients
+### Pastry
 - 220 grams [Sweet shortcrust pastry](../../baking/pastry/sweet-short-pastry.md)
+
+### Rhubarb filling
 - 400 grams tender young rhubarb
 - 140 grams caster sugar
 - 1 large juicy orange
@@ -52,3 +60,15 @@
 
 ### Serving
 1. Divide the crème pâtissière between the tartlet cases and pile the rhubarb and oranges on top.
+
+## Notes
+- Chill the tartlet cases before blind baking to help them hold their shape.
+- Drain the cooked rhubarb well to avoid making the pastry soggy.
+- Assemble the tartlets close to serving time for the crispiest results.
+- A small amount of orange syrup adds extra gloss and flavour.
+
+## Serving
+Serve the tartlets at room temperature or slightly warm with a small spoonful of crème fraîche or whipped cream. They also pair beautifully with a simple vanilla custard.
+
+## Storage
+Store unfilled tartlet cases and poached rhubarb separately in the refrigerator for up to 2 days. Assemble just before serving; these tartlets do not freeze well once filled.

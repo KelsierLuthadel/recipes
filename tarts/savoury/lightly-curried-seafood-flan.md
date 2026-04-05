@@ -1,25 +1,37 @@
-# Lightly curried seafood flan
+# Lightly Curried Seafood Flan
 
 ![Lightly curried seafood flan](resources/curried-seafood-flan.jpg)
 
 *Tender seaweed is a tasty, attractive addition to these light, creamy seafood flans, but it is not always easy to obtain.*
 
-*These flans are best served straight from the oven.*
-
 **Serves:** 6
 
+**Prep time:** 25 mins
+
+**Cooking time:** 55 mins
+
+## Overview
+Elegant individual flans featuring fresh shellfish—mussels, scallops, and langoustines—in a silky curry-infused custard set within a crisp pastry case. The delicate interplay of seafood sweetness and warm curry spice creates a sophisticated starter worthy of special occasions. Best served warm from the oven.
+
 ## Ingredients
-- 375 grams [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+### Pastry base
+- 375 g [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+
+### Seafood
 - 24 fresh mussels (cleaned)
-- 75 ml dry white wine
-- 1 shallot (finely chopped)
 - 3 large scallops
 - 6 langoustines (cleaned)
-- 1 tablespoon curry powder
-- 100 grams tender green seaweed (optional)
+- 100 g tender green seaweed (optional)
+
+### Flavouring
+- 75 ml dry white wine
+- 1 shallot (finely chopped)
+- 1 tbsp curry powder
+
+### Custard
 - 75 ml double cream
 - 1 whole egg
-- salt and freshly ground pepper
+- Salt and freshly ground pepper
 
 ## Method
 ### Make the filling
@@ -57,3 +69,17 @@
 1. Season with salt and pepper to taste.
 1. Pour the mixture over the seafood in the flan cases and bake for about 20 minutes until the filling has set.
 1. To check, delicately insert a knife tip into the centre, if it comes out clean the flans are ready.
+
+## Notes
+- **Seaweed optional:** Adds visual appeal and subtle briny note; unavailable seaweed can be omitted without compromising the dish.
+- **Shellfish quality:** Use the freshest shellfish available; discard any mussels that don't open after cooking.
+- **Custard setting:** The flan is done when a knife inserted in centre comes out clean; overbaking causes toughness.
+- **Curry powder:** Fresh curry powder provides best flavour; stale powder will taste flat and bitter.
+
+## Serving
+Serve warm straight from the oven, accompanied by a simple frisée salad with garlic croûtons and a crisp white wine.
+
+## Storage
+- Best eaten warm immediately after baking; do not refrigerate.
+- Leftover flans can be stored refrigerated for 1 day and gently reheated in a warm oven.
+- Do not freeze; seafood-based custards do not refreeze well.

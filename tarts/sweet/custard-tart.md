@@ -7,9 +7,17 @@
 *This tart is especially delicious when served with poached prunes and candied citrus peel.*
 
 **Serves:** 6
+**Prep time:** 35 minutes
+**Cooking time:** 45 minutes
+
+## Overview
+This sweet custard tart combines a crisp flan pastry case with a smooth vanilla custard filling, served here with poached prunes and candied citrus peel. It is best chilled slightly so the custard sets while still offering a tender, creamy bite.
 
 ## Ingredients
+### Pastry
 - 260 grams [flan pastry](../../baking/pastry/flan-pastry.md)
+
+### Custard filling
 - 5 egg yolks
 - 100 grams caster sugar
 - 20 grams plain flour
@@ -17,11 +25,10 @@
 - 400 ml milk
 - 1 vanilla pod (split length ways)
 
-### To serve
+### Poached fruit and finish
 - 16 prunes (pitted)
 - 150 grams caster sugar
 - 100 grams candied citrus peel
-
 
 ## Method
 ### Prepare the pastry
@@ -49,9 +56,23 @@
 
 ### Make the tart
 1. Spread the hot custard in the flan case and bake for 25 minutes or until lightly golden on the surface.
-1. Carefully slide on a wire rack, lift off the ring and leave to cool completely.
+2. Carefully slide on a wire rack, lift off the ring and leave to cool completely.
 
 ### Poach the prunes
 1. Dissolve the sugar in 150 ml of water in a pan over a medium heat.
-1. Add the prunes and poach gently for 2 - 6 minutes until tender.
+2. Add the prunes and poach gently for 2 - 6 minutes until tender.
+
+### Serve
 1. Serve the tart with the poached prunes and candied orange peel.
+
+## Notes
+- Blind bake the flan pastry and cool it before filling to prevent a soggy base.
+- Cook the custard gently and stir constantly so it remains smooth and thickens evenly.
+- Chill the tart fully before slicing to let the filling set properly.
+- The poached prunes and candied peel add a rich, complementary contrast to the custard.
+
+## Serving
+Serve the tart slightly chilled or at room temperature with the warm poached prunes spooned alongside. A little crème fraîche or whipped cream is a lovely accompaniment.
+
+## Storage
+Store leftovers in the refrigerator for up to 3 days, covered. Freezing is not recommended because the custard can become watery when thawed.

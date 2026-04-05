@@ -5,14 +5,24 @@
 *This classic tart tastes even better if you make it in advance, and caramelise the surface using a cook's blowtorch.*
 
 **Serves:** 8
+**Prep time:** 35 minutes
+**Cooking time:** 1 hour 35 minutes
+
+## Overview
+A bright lemon tart with a crisp sweet shortcrust shell and a creamy lemon filling, finished with a caramelised sugar top. It is best served chilled or at room temperature with a glossy brûléed surface and light whipped cream.
 
 ## Ingredients
+### Pastry
 - 280 grams [Sweet Shortcrust](../../baking/pastry/sweet-short-pastry.md)
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)
+
+### Lemon filling
 - 5 unwaxed lemons (washed)
 - 9 eggs
 - 375 grams caster sugar
 - 300 ml double cream (lightly whipped)
+
+### Finish
 - 30 grams icing sugar (to glaze)
 
 ## Method
@@ -46,5 +56,17 @@
 
 ### Serve
 1. Dust the surface with half of the icing sugar and caramelise it with a cook's blowtorch.
-1. Repeat with the remaining icing sugar and serve immediately.
-1. Cut the tart carefully with a very sharp knife, as the caramelised surface is very delicate.
+2. Repeat with the remaining icing sugar and serve immediately.
+3. Cut the tart carefully with a very sharp knife, as the caramelised surface is very delicate.
+
+## Notes
+- Chill the lemon filling before baking to help it set and prevent cracking.
+- Blind bake and eggwash the pastry case to ensure a crisp, golden shell.
+- Use unwaxed lemons for the best zest and juice quality.
+- Caramelise the surface just before serving to keep the crust crisp.
+
+## Serving
+Serve the lemon tart chilled or at room temperature, with a small spoonful of softly whipped cream if desired. It makes a refreshing finale to a dinner party.
+
+## Storage
+Store the tart in the refrigerator for up to 3 days. Keep it covered to protect the caramelised surface; do not freeze once brûléed.

@@ -5,9 +5,17 @@
 *This luxury cheesecake is made in a pastry case rather than with a biscuit base, but none the less it is still an elegant tart with a delicious mouth-watering finish.*
 
 **Serves:** 8
+**Prep time:** 35 minutes
+**Cooking time:** 90 minutes plus cooling
+
+## Overview
+This orange cheesecake tart combines a shortcrust pastry case with a creamy, citrus-infused cheese filling. It is best served chilled and finished with warm marmalade and candied orange peel for a bright, elegant dessert.
 
 ## Ingredients
+### Pastry
 - 280 grams [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+
+### Filling
 - 4 oranges
 - 350 grams fromage frais
 - 350 grams curd cheese
@@ -15,10 +23,9 @@
 - 175 grams caster sugar
 - 4 eggs
 
-### To finish
+### Finish
 - 6 tablespoons Seville orange marmalade (warmed and strained)
 - candied orange peel 
-
 
 ## Method
 ### Prepare the pastry
@@ -48,5 +55,17 @@
 
 ### Serving
 1. Carefully spread an even layer of marmalade over the surface of the cheesecake.
-1. Wait a few minutes for the glaze to set, then cut the cheesecake into portions using a very sharp knife.
-1. Serve on individual plates, with candied orange peel.
+2. Wait a few minutes for the glaze to set, then cut the cheesecake into portions using a very sharp knife.
+3. Serve on individual plates, with candied orange peel.
+
+## Notes
+- Blind bake the pastry case fully to keep it crisp under the soft cheesecake filling.
+- Use freshly squeezed orange juice and zest for the best citrus flavour.
+- Chill the cheesecake completely before glazing and slicing.
+- A low, slow bake helps the filling set without splitting.
+
+## Serving
+Serve the cheesecake tart chilled or at room temperature with a spoonful of crème fraîche if desired. The marmalade glaze adds shine and a concentrated orange finish.
+
+## Storage
+Keep the tart refrigerated for up to 3 days, covered. Freeze only the unglazed tart if needed, then thaw slowly in the fridge and glaze just before serving.
